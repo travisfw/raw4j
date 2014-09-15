@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="5" failed="1" total="11" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="42119" started-at="2014-09-15T16:27:15Z" finished-at="2014-09-15T16:27:57Z">
+    <groups>
+      <group name="readReddit">
+        <method signature="com.cd.reddit.RedditTest.subredditsPopular()" name="subredditsPopular" class="com.cd.reddit.RedditTest"/>
+        <method signature="com.cd.reddit.RedditTest.listingsFor()" name="listingsFor" class="com.cd.reddit.RedditTest"/>
+        <method signature="com.cd.reddit.RedditTest.commentsForAndMore()" name="commentsForAndMore" class="com.cd.reddit.RedditTest"/>
+      </group>
+    </groups>
+    <test name="Command line test" duration-ms="42119" started-at="2014-09-15T16:27:15Z" finished-at="2014-09-15T16:27:57Z">
+      <class name="com.cd.reddit.RedditTest">
+        <test-method status="PASS" signature="init()" name="init" is-config="true" duration-ms="8" started-at="2014-09-15T16:27:15Z" finished-at="2014-09-15T16:27:15Z">
+        </test-method>
+        <test-method status="PASS" signature="waitForNextRequest()" name="waitForNextRequest" is-config="true" duration-ms="4000" started-at="2014-09-15T16:27:15Z" finished-at="2014-09-15T16:27:19Z">
+        </test-method>
+        <test-method status="PASS" signature="login()" name="login" duration-ms="2845" started-at="2014-09-15T16:27:19Z" finished-at="2014-09-15T16:27:22Z">
+        </test-method>
+        <test-method status="PASS" signature="waitForNextRequest()" name="waitForNextRequest" is-config="true" duration-ms="4000" started-at="2014-09-15T16:27:22Z" finished-at="2014-09-15T16:27:26Z">
+        </test-method>
+        <test-method status="PASS" signature="subredditsPopular()" name="subredditsPopular" duration-ms="5556" started-at="2014-09-15T16:27:26Z" depends-on-methods="com.cd.reddit.RedditTest.login" finished-at="2014-09-15T16:27:31Z">
+        </test-method>
+        <test-method status="PASS" signature="waitForNextRequest()" name="waitForNextRequest" is-config="true" duration-ms="4000" started-at="2014-09-15T16:27:31Z" finished-at="2014-09-15T16:27:35Z">
+        </test-method>
+        <test-method status="FAIL" signature="listingsFor()" name="listingsFor" duration-ms="5127" started-at="2014-09-15T16:27:35Z" depends-on-methods="com.cd.reddit.RedditTest.subredditsPopular, com.cd.reddit.RedditTest.login" finished-at="2014-09-15T16:27:40Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at com.cd.reddit.RedditTest.listingsFor(RedditTest.java:189)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:673)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:842)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1166)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:1178)
+	at org.testng.TestRunner.privateRun(TestRunner.java:757)
+	at org.testng.TestRunner.run(TestRunner.java:608)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1158)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1083)
+	at org.testng.TestNG.run(TestNG.java:999)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:69)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:181)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="SKIP" signature="commentsForAndMore()" name="commentsForAndMore" duration-ms="0" started-at="2014-09-15T16:27:40Z" depends-on-methods="com.cd.reddit.RedditTest.login, com.cd.reddit.RedditTest.listingsFor" finished-at="2014-09-15T16:27:40Z">
+        </test-method>
+        <test-method status="SKIP" signature="commentAndDelete()" name="commentAndDelete" duration-ms="0" depends-on-groups="readReddit" started-at="2014-09-15T16:27:40Z" depends-on-methods="com.cd.reddit.RedditTest.login, com.cd.reddit.RedditTest.listingsFor" finished-at="2014-09-15T16:27:40Z">
+        </test-method>
+        <test-method status="PASS" signature="waitForNextRequest()" name="waitForNextRequest" is-config="true" duration-ms="4000" started-at="2014-09-15T16:27:40Z" finished-at="2014-09-15T16:27:44Z">
+        </test-method>
+        <test-method status="PASS" signature="testMarkNSFW()" name="testMarkNSFW" duration-ms="545" started-at="2014-09-15T16:27:44Z" depends-on-methods="com.cd.reddit.RedditTest.login" finished-at="2014-09-15T16:27:45Z">
+        </test-method>
+        <test-method status="SKIP" signature="testMeJson()" name="testMeJson" duration-ms="0" depends-on-groups="readReddit" started-at="2014-09-15T16:27:45Z" depends-on-methods="com.cd.reddit.RedditTest.login" finished-at="2014-09-15T16:27:45Z">
+        </test-method>
+        <test-method status="PASS" signature="waitForNextRequest()" name="waitForNextRequest" is-config="true" duration-ms="4000" started-at="2014-09-15T16:27:45Z" finished-at="2014-09-15T16:27:49Z">
+        </test-method>
+        <test-method status="PASS" signature="testUnmarkNSFW()" name="testUnmarkNSFW" duration-ms="1782" started-at="2014-09-15T16:27:49Z" depends-on-methods="com.cd.reddit.RedditTest.testMarkNSFW, com.cd.reddit.RedditTest.login" finished-at="2014-09-15T16:27:51Z">
+        </test-method>
+        <test-method status="PASS" signature="waitForNextRequest()" name="waitForNextRequest" is-config="true" duration-ms="4001" started-at="2014-09-15T16:27:51Z" finished-at="2014-09-15T16:27:55Z">
+        </test-method>
+        <test-method status="SKIP" signature="testUserInfoFor()" name="testUserInfoFor" duration-ms="0" depends-on-groups="readReddit" started-at="2014-09-15T16:27:51Z" depends-on-methods="com.cd.reddit.RedditTest.login" finished-at="2014-09-15T16:27:51Z">
+        </test-method>
+        <test-method status="SKIP" signature="vote()" name="vote" duration-ms="0" depends-on-groups="readReddit" started-at="2014-09-15T16:27:51Z" depends-on-methods="com.cd.reddit.RedditTest.login, com.cd.reddit.RedditTest.listingsFor" finished-at="2014-09-15T16:27:51Z">
+        </test-method>
+        <test-method status="PASS" signature="newCaptcha()" name="newCaptcha" duration-ms="2246" started-at="2014-09-15T16:27:55Z" finished-at="2014-09-15T16:27:57Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

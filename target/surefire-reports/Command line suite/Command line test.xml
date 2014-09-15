@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="hopper" name="com.cd.reddit.RedditTest" tests="11" failures="1" timestamp="15 Sep 2014 23:27:57 GMT" time="42.119" errors="0">
+  <testcase name="login" time="2.845" classname="com.cd.reddit.RedditTest"/>
+  <testcase name="subredditsPopular" time="5.556" classname="com.cd.reddit.RedditTest"/>
+  <testcase name="listingsFor" time="5.127" classname="com.cd.reddit.RedditTest">
+    <failure type="java.lang.NullPointerException">
+      <![CDATA[java.lang.NullPointerException
+	at com.cd.reddit.RedditTest.listingsFor(RedditTest.java:189)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:69)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:181)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+... Removed 22 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="commentsForAndMore" time="0.0" classname="com.cd.reddit.RedditTest">
+    <skipped/>
+  </testcase>
+  <testcase name="commentAndDelete" time="0.0" classname="com.cd.reddit.RedditTest">
+    <skipped/>
+  </testcase>
+  <testcase name="testMarkNSFW" time="0.545" classname="com.cd.reddit.RedditTest"/>
+  <testcase name="testMeJson" time="0.0" classname="com.cd.reddit.RedditTest">
+    <skipped/>
+  </testcase>
+  <testcase name="testUnmarkNSFW" time="1.782" classname="com.cd.reddit.RedditTest"/>
+  <testcase name="testUserInfoFor" time="0.0" classname="com.cd.reddit.RedditTest">
+    <skipped/>
+  </testcase>
+  <testcase name="vote" time="0.0" classname="com.cd.reddit.RedditTest">
+    <skipped/>
+  </testcase>
+  <testcase name="newCaptcha" time="2.246" classname="com.cd.reddit.RedditTest"/>
+</testsuite>

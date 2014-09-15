@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 5, Time elapsed: 42.758 sec <<< FAILURE! - in TestSuite
+listingsFor(com.cd.reddit.RedditTest)  Time elapsed: 5.137 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.cd.reddit.RedditTest.listingsFor(RedditTest.java:189)
+

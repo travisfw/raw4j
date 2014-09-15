@@ -1,0 +1,1955 @@
+Configuring TestNG with: TestNGMapConfigurator
+
+
+----------- TESTING LOGIN -----------
+
+
+RedditJsonMessage [errors=[], modhash=fin6r7eg72e993dd68854f323c55da96f350c04c1bacdc11e9, cookie=21368093,2014-09-15T16:27:21,807b0198841f9366507d5268a33ae60db741e212, iden=null, data={"need_https":false,"modhash":"fin6r7eg72e993dd68854f323c55da96f350c04c1bacdc11e9","cookie":"21368093,2014-09-15T16:27:21,807b0198841f9366507d5268a33ae60db741e212"}]
+
+
+----------- TESTING SUBREDDITS NEW -----------
+
+
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=**Welcome to r/Funny:**
+
+You may only post if you are funny. 
+
+-----
+
+[New to reddit? Click here!](/wiki/reddit_101)
+
+---
+# Rules
+*hover for details*
+
+|||
+|:------|:---|
+|1. No reaction or HIFW posts|How I Feel When posts belong in /r/HIFW. Reaction gifs belong in /r/reactiongifs.|
+|2. No posts with their sole purpose being to communicate with another redditor.| [Click for an Example](http://www.reddit.com/lq3uv/). This includes asking for upvotes.|
+|3. No Posts for the specific point of it being your reddit birthday.|Cake day posts are not allowed.|
+|4. Posts which result in harassment of any individual, subreddit, or other entity may be removed at the moderators' discretion.|Posts with titles such as "I got banned from \/r/\_\_\_" or "This got removed from \/r/\_\_\_" are not allowed.|
+|5. No Politics|Anything involving politics or a political figure. Try /r/politicalhumor instead.|
+|6. No Pictures of just text|This includes pictures of text with irrelevant images that don't add context. Make a self post instead. [Example](http://i.imgur.com/2cPuY8C.jpg)|
+|7. No DAE posts|Go to /r/doesanybodyelse|
+|8. No Links to tumblr sites/pages.|Direct links to images hosted on tumblr (ex. 24.media.tumblr.com/img.jpg) are allowed.|
+|9. No URL shorteners|No link shorteners (or HugeURL) in either post links or comments. They will be deleted regardless of intent.|
+|10. No gore or porn (including sexually graphic images).|Other NSFW content must be tagged as such|
+|11. No personal information.|This includes anything hosted on Facebook's servers, as they can be traced to the original account holder.|
+|12.  No memes, rage comics, demotivationals, eCards, or standupshots|Memes belong in /r/adviceanimals, rage comics go to /r/fffffffuuuuuuuuuuuu, demotivationals go to /r/Demotivational, submit eCards to /r/ecards, and standupshots go to /r/standupshots [Image Macros that aren't memes are allowed](http://en.wikipedia.org/wiki/Image_macro#Formats)
+|13. Do not rehost webcomics.|Rehosted and [hotlinked](http://en.wikipedia.org/wiki/Inline_linking) webcomics will be removed, unless you are the creator. Please submit a link to the original comic's site, and possibly a mirror in the comments. Tumblr-exclusive comics are the exception, and may be rehosted, however if the artist's name or watermark are removed, the post will be removed. [(*)](http://www.reddit.com/kqwwx/) [(*)](http://www.reddit.com/kwmk3)|
+|14. No SMS or Social Media Content (including Reddit)|This includes direct linking to reddit threads, reddit comments, other subreddits, facebook profiles, twitter profiles, tweets, embedded tweets, and screenshots of the above, including text messages, omegle, snapchat, instagram and others. This also includes any other sites that may be considered social network sites. Please read the [announcement.](http://www.reddit.com/1785g0)|
+
+
+Want to see /r/funny with these posts? [Click here!](/r/funny+facepalm+facebookwins+retorted+tumblr+twitter+texts+4chan+omegle+cleverbot+yahooanswers+screenshots+politicalhumor+demotivational+ecards+bestof+defaultgems+HIFW+MFW+reactiongifs+fffffffuuuuuuuuuuuu)
+
+---
+Please note:
+
+* Hate speech and bigotry will be removed at the moderators' discretion.
+
+* Serial reposters may be filtered
+
+------
+
+|||
+|-|-|
+|What do I do if I see a post that breaks the rules?|Click on the report button, and [send us a message](/message/compose?to=%23funny) with a link to the comments of the post.|
+|What should I do if I don't see my post in the new queue?|If your submission isn't showing up, please don't just delete it as that makes the filter hate you! Instead please [send us a message](/message/compose?to=%23funny) with a link to the post. We'll unban it and it should get better. Please allow 10 minutes for the post to appear before messaging moderators|
+
+-----
+
+Looking for something else? Visit our friends!
+
++ [CardsAgainstHumanity](/r/CardsAgainstHumanity)
++ [humor](/r/humor) for more in-depth stuff
++ [tumblr](/r/tumblr) - for tumblr screenshots
++ [NSFWFunny](/r/NSFWFunny)  
++ [comics](/r/comics)
++ [punny](/r/punny)
++ [lolcats](/r/lolcats)
++ [Wheredidthesodago?](/r/wheredidthesodago)
++ [lol](/r/lol)
++ [Facepalm](/r/facepalm)
++ [ReactionGifs](/r/reactiongifs)
++ [ShittyAskScience](/r/shittyaskscience)
++ [Screenshots](/r/screenshots)
++ [nononono](/r/nononono)
++ ["how I think I am vs. how I actually am"](/r/ExpectationVsReality/)
++ [Unnecessary Censorship](/r/UnnecessaryCensorship)
++ [Mean Jokes](/r/meanjokes)
++ [Standup Shots](/r/standupshots)
++ [Startled Cats](/r/startledcats)
++ [Animals Being Jerks](/r/AnimalsBeingJerks)
++ [Unexpected](/r/Unexpected)
++ [bertstrips](/r/bertstrips)
++ [Instant_Regret](/r/instant_regret)
++ [WellThatSucks](/r/WellThatSucks)
++ [misc](/r/misc/) for anything else, over18=false, subscribers=6756276, title=funny, url=/r/funny/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=&gt; [How does reddit work? Click here to find out.](http://www.redditblog.com/2014/07/how-reddit-works.html)  
+
+
+****
+&gt; Welcome to \/r/AdviceAnimals
+&gt; ====   
+&gt;
+&gt; ####Sound advice from ~~animals~~ anything!
+
+****     
+
+&gt; [](#aliens)[Rules] (#Rules) [](#aliens)
+&gt; ====
+&gt; * Follow all [Reddit rules](http://www.reddit.com/rules). This includes *not* asking for upvotes and not revealing personal information.
+&gt; * We're here to have a laugh.  
+     *Hate speech, bigotry, and personal attacks are not allowed.* ***Death threats and telling others to kill themselves will result in a ban.***
+&gt; * Follow the general Advice Animal format: Two line joke over a re-usable character. 
+&gt; * Don't repost. Report reposts by messaging the mods.  
+&gt; * No [Verticals](/r/vertical), [Opinion Puffins](http://knowyourmeme.com/memes/unpopular-opinion-puffin) or [Batman Slaps](http://www.reddit.com/r/batmanslap). 2 Advice animals in a vertical are OK.
+&gt; * Link directly to your image.
+&gt; * Don't make memes with pics of people that you saw in real life. Ever.  
+Witch-hunts are forbidden.
+&gt; * Shortened links, Facebook, Tumblr, Blogspot, etc, will be automatically removed.
+&gt; * We reserve the right to remove posts, remove comments, and ban users at our own discretion.
+
+*****
+
+&gt; [](#businesscat)  [**Making Memes**](#Makingmemes) [](#businesscat)
+&gt; =====================
+&gt; ##Visit:
+
+&gt;
+|  |   |     |
+|:--:|:--:|:--:|
+| [Memegur](http://imgur.com/memegen) | [isMEME](http://goo.gl/zGQvP) | [MakeAMeme](http://makeameme.org)     
+| [Wuzu](http://www.wuzu.se/) | [Memedad](http://memedad.com)| [WeKnowMemes](http://goo.gl/1Pilt)   
+| [MemeCaptain](http://goo.gl/LKpyc) | [MemeCreator](http://goo.gl/1QUaO) | [LiveMeme](http://goo.gl/KdFFv)   
+| [WinMeme](http://www.winmeme.com) | [DropMeme](http://dropmeme.com/)| [Memesly](http://memesly.com/)   
+| [Captionday](http://www.captionday.com) | [Trollme](http://goo.gl/FFP6A) | [MiniMemes](http://minimemes.net)
+| [Diylol](http://goo.gl/rzJUU)| [MemeCloud](http://www.memecloud.co) | [MemeGen](http://goo.gl/HIQzh) |
+
+&gt; ##or try one of these:
+ 
+&gt; 
+|  |   |
+|:--:|:--:|
+| [Iomeme](http://goo.gl/OIZ8b) | [Free iPhone App](http://goo.gl/u7vy3) |  
+| [Free Android App 1](http://goo.gl/4hp2c) | [Free Android App 2](http://goo.gl/5KJci) |
+| [OS X meme generator](http://goo.gl/E85it) | |
+
+&gt; 1. Please keep the 'advice' relevant to the character. Not sure? go to [knowyourmeme.com](http://goo.gl/aSrck).
+
+&gt; 2. Want AdviceAnimals in your comments? [here's how](/r/AdviceAnimals/wiki/inline_graphics).
+
+****     
+
+&gt; [](#ggg "Sees you ask for help. Helps.")   **Message the mods** [](#ggg)
+&gt; =====================
+
+&gt; 1. We are always happy to help. Please attach a link to the comments of your submission and a description of the question/problem you are having.
+
+&gt; 2. If you can't see your submission in the new queue, please double check that your new queue is ranked by *[new](http://www.reddit.com/r/AdviceAnimals/new/?sort=new)* and not *rising*.    
+    
+&gt; 3. If you still think it is in the spam filter, don?t delete your submission, message the mods instead. Deleting it will make the spam filter more likely to filter you next time you post.
+
+
+&gt; 4. [click here to message the moderators](http://www.reddit.com/message/compose?to=/r/AdviceAnimals)
+ 
+****   
+
+&gt; [](#stonerdog)**You may also enjoy:**[](#stonerdog)
+&gt; =====================
+        
+&gt; ## Our Family    
+
+&gt;|  |   |
+|:--:|:--:|
+| /r/ADHDMeme| /r/AdviceAtheists |
+| /r/AdviceHell | /r/AnimalsBeingJerks | 
+| /r/AnnoyedPicard | /r/awwducational |
+| /r/BatmanSlap | /r/ConfessionBear |
+| /r/DucksAndBears | /r/DutchMemes |
+| /r/hashmemes | /r/Kelloggs |
+| /r/LibertarianMeme | /r/Memes |
+| /r/MemesIRL | /r/MetalMemes |
+| /r/RealAdviceAnimals |/r/shittyadviceanimals |
+|/r/SlothMemes | /r/SpideyMeme  |
+| /r/TVMemes | /r/Vertical | |
+
+&gt; and...
+
+&gt;- /r/gaaaaaaayyyyyyyyyyyy
+- /r/AdviceAuthoritarians
+- /r/TournamentOfMemes
+
+****      
+
+###[Good Guy Gregs check the new queue](http://www.reddit.com/r/AdviceAnimals/new?sort=new "Good Guy Gregs check the new queue")
+
+---
+
+
+####[](http://www.reddit.com)
+
+
+#####[Candy?](http://candybox2.net/), over18=false, subscribers=4259327, title=reddit's gold mine., url=/r/AdviceAnimals/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=A place to share photographs and pictures. Feel free to post your own, but please **read the rules first** (see below), and note that we are *not a catch-all* for general images (of screenshots, comics, etc.)
+
+#Spoiler code#
+
+Please mark spoilers like this:  
+`[text here](/spoiler)`
+
+Hover over to [read](/spoiler).
+
+#Posting Rules#
+
+
+1. **No screenshots,  No pictures with added, or No pictures superimposed text.** *This includes [image macros](http://en.wikipedia.org/wiki/Image_macro), comics, infographics and most diagrams. Text (e.g. a URL) serving to credit the original author is exempt.*
+
+1. **No nudity, porn, or gore.** *Other NSFW content must be tagged.*
+
+1. **No personal information.** *This includes anything hosted on Facebook's servers, as they can be traced to the original account holder. Stalking &amp; harassment will not be tolerated.* ***No missing-persons requests!***
+
+1. **No post titles soliciting votes** *(e.g. "upvote this").*
+
+1. **No DAE, "[FIXED]" or "cake day" posts, nor posts addressed to a specific redditor.** *"[FIXED]" posts should be added as a comment to the original image.*
+
+1. **Submissions must link directly to a specific image file or to a website with minimal ads.** *We do not allow blog hosting of images ("blogspam"), but links to albums on image hosting websites are okay. URL shorteners are prohibited.* 
+
+1. **No animated images.** *Please submit them to /r/gif, /r/gifs, or /r/reactiongifs instead.*
+
+* Please be civil when commenting. Racist/sexist/homophobic comments and personal attacks against other redditors do not belong here.
+
+* If your submission appears to be filtered, but **definitely** meets the above rules, [please send us a message](/message/compose?to=%23pics) with a link to the **comments section** of your post (not a direct link to the image). **Don't delete it**  as that just makes the filter hate you! 
+
+* If you come across any rule violations please report the submission or  [message the mods](http://www.reddit.com/message/compose?to=%23pics) and one of us will remove it!
+
+* Please note: serial reposters may be filtered
+
+* Please also try to come up with **original post titles**. Submissions that use certain clich?s/memes will be automatically tagged with a warning.
+
+#Links#
+If your post doesn't meet the above rules, consider submitting it on one of these other subreddits:
+
+Comics | &amp;#0160;
+:---|:---
+/r/comics | /r/webcomics
+/r/vertical | [/r/f7u12](/r/fffffffuuuuuuuuuuuu/)
+/r/ragenovels | /r/AdviceAtheists 
+/r/comicbookart | 
+**Image macros**|**Screenshots/text**
+/r/lolcats | /r/screenshots
+/r/AdviceAnimals | /r/desktops
+/r/Demotivational | /r/facepalm
+/r/reactiongifs | /r/DesktopDetective
+/r/memes | 
+**Wallpaper**|**Animals**
+/r/wallpaper | /r/aww
+/r/wallpapers | /r/cats
+[The SFWPorn Network](http://www.reddit.com/user/kjoneslol/m/sfwpornnetwork) | /r/TrollingAnimals
+&amp;#0160; | /r/deadpets
+&amp;#0160; | /r/birdpics
+&amp;#0160; | /r/foxes
+&amp;#0160; | /r/dogpictures
+&amp;#0160; | /r/sloths
+**Photography**|**Low-moderated pics**
+/r/photography | /r/AnythingGoesPics
+/r/photocritique | /r/images
+/r/HDR | /r/misc
+/r/windowshots | /r/redditdotcom
+/r/PictureChallenge |
+**GIFs/Misc.**|**New reddits**
+/r/reactiongifs |  /r/britpics 
+/r/gifs | [Imaginary Network: Expanded](http://www.reddit.com/user/ImaginaryMod/m/imaginaryexpanded)
+/r/dataisbeautiful |  /r/thennnow
+/r/pic requests | /r/SpecArt
+/r/doodles |  /r/IncredibleIndia 
+/r/NewAmericanCitizen |  /r/timelinecovers
+/r/ProgressPics |  /r/MemesIRL 
+/r/HighQualityGifs | /r/TelevisionQuotes
+/r/crossview |  /r/OldSchoolCool
+[(*More*)](/r/ModeratorDuck/wiki/pics) | /r/photoshopbattles
+&amp;#0160; | /r/PastAndPresentPics
+
+Also check out http://irc.reddit.com
+ , over18=false, subscribers=6683462, title=/r/Pics, url=/r/pics/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=######If you don't have our CSS enabled or are on mobile, our sidebar will look weird! Sorry for the mess!
+
+[submit a link](/r/aww/submit)
+
+###Things that make you go AWW! -- like puppies, and bunnies, and so on...
+###Feel free to post pictures, videos and stories of cute things.
+
+
+&gt; **Rules**
+
+
+1. No "sad" content, such as pics of animals that have passed away (try /r/petloss) or sob stories (e.g. found him in a dumpster).
+
+2. No comics or captioned pictures (try /r/lolcats).
+3. No post titles asking for upvotes or approval, such as "any love for...", "what does /r/aww think of...", or "this didn't get much love on...", or "karma machine".
+
+4. No slurs or harassing comments.
+5. No linking to personal social sites (Facebook, Twitter, etc.)
+6. No NSFW content.
+7. No asking for donations, sponsorship or adoptions (try /r/care or /r/assistance).
+
+8. No bots or bot-like behavior.
+
+
+####**Related Subreddits**
+
+|||
+:-|-:
+[Adorable Art](/r/adorableart)|[Animal Gifs](/r/animalgifs)
+[Animals Being Derps](/r/animalsbeingderps)|[Aww Gifs](/r/awwgifs)
+[Awwducational](/r/awwducational)|[Awwnverts](/r/awwnverts)
+[Bird Pics](/r/birdpics)|[Captive wildlife](/r/captivewildlife)
+[Cats](/r/cats)|[Cat Pictures](/r/catpictures)
+[Cat Videos](/r/catvideos)|[Cute](/r/cute)
+[Cute Kids](/r/cutekids)|[Dog Pictures](/r/dogpictures)
+[Dogs Wearing Hats](/r/dogswearinghats)|[Foxes](/r/foxes)
+[Guinea Pigs](/r/guineapigs)|[Gentle Manimals](/r/gentlemanimals)
+[Hardcore Aww](/r/hardcoreaww)|[Photoshawwp](/r/photoshawwp)
+[The Animal Kingdom](http://www.reddit.com/r/AnimalReddits/wiki/faq)|[Red Pandas](/r/redpandas)
+[Sloths](/r/sloths)|[Uplifting News](/r/upliftingnews)
+[Koalas](/r/koalas)|[LGBTaww](/r/lgbtaww)
+[Delightfully Chubby](/r/delightfullychubby)|[Rabbits](/r/rabbits)
+[Parrots](/r/parrots)|[Pets in Clothes](/r/petsinclothes)
+[Animals Failing](/r/animalsfailing)|[Startled Cats](/r/StartledCats) 
+[Animal Expressions](/r/animalexpressions)|[Cats Standing Up](/r/CatsStandingUp)
+[Pigs](/r/pigs) | [Cats](/r/cats)
+----
+
+
+###Please [spay and neuter](http://www.petsmartcharities.org/spay-neuter/locator/) your pets! While your newborn pets are cute, failing to do this allows your little darlings to add to the population of homeless animals. Adopt pets from your [local animal rescues/shelters](http://adopt.pschar.org/), there are plenty of animals just waiting for a home.
+
+##don't remove, over18=false, subscribers=5203195, title=The cutest things on the internet!, url=/r/aww/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=---
+&gt;###### [**READ THE RULES.** ***No Screenshots!***](http://www.reddit.com/r/wtf/about/sidebar)
+
+# **All (&amp; only) things that make you say WTF.**
+
+----
+
+**RULES**
+
+*Hover for details*
+
+|||
+|:---|:---|
+|1. **No Screenshots!**|For example, screenshots of Facebook, Youtube, &amp; 4chan aren't allowed.|
+|2. No Personal Information.|All [personal information](http://blog.reddit.com/2011/05/reddit-we-need-to-talk.html) will be removed, [offenders banned](http://www.reddit.com/wiki/faq#wiki_is_posting_personal_information_ok.3F). This includes, but is not limited to, full names, phone/address, links to Facebook &amp; posts which link to images hosted on Facebook's servers. Anything hosted on Facebook's servers can be traced to the original account holder.
+|3. No Calls for Public Outcry.|This includes posts which may incite activism &amp; outrage or involves "injustice". Rageworthy posts aren't necessarily WTF. Also, Reddit is not your personal army. 
+|4. No Politics.|Neither posts with political implications, nor politics of any kind are allowed, especially US politics. To see the original post outlining this rule, click [here](http://www.reddit.com/r/WTF/comments/eysc5/do_not_post_any_politics_to_rwtf_period_no/).
+|5. NSFW posts must be tagged.|If they haven't been marked, they will be removed (and not reinstated).
+|6. No Superimposed Text.|This includes Captioned Images, Memes, &amp; Demotivational Posters.
+|7. No Comics.|This includes rage &amp; web comics. Do not hotlink or re-host a comic(s) you didn't make.
+|8. No Begging for Upvotes.|No post titles soliciting karma (e.g. "upvote this", or "cakeday".)
+|9. No Links to Reddit.|This also includes screenshots of Reddit.
+|10. Gore and Porn are not WTF by default.|They are both allowed here, however please consider posting the more extreme stuff to /r/spacedicks (NSFW).
+|11. Racism and bigotry is not allowed. | They will result in bans.
+|12. Novelty accounts and bots are not allowed. | They will be banned.
+
+ If you have any questions about the rules, if you're confused about why your post was removed, or if your idea for a post is acceptable; **Please Read the ['Guide to WTF'](http://www.reddit.com/r/WTF/comments/15wnze/guide_to_wtf/) &amp; our [Moderator Announcement](http://www.reddit.com/r/WTF/comments/178q99/moderator_announcement/)** before contacting us.
+
+----
+
+[New to reddit? Click here!](/wiki/reddit_101)
+
+----
+
+Shout Outs:
+
+/r/awwwtf
+
+/r/creepy  
+
+/r/creepy_gif
+
+/r/cringe
+
+/r/cringepics
+
+/r/rage
+
+/r/hoarding
+
+/r/Im14andthisisWTF
+
+/r/mildlyinteresting
+
+/r/MorbidReality
+
+/r/NSFW_WTF
+
+/r/sfw_wtf
+
+/r/Weird
+
+/r/WTFart
+
+/r/WTFdidIjustread
+
+/r/FiftyFifty
+
+/r/popping
+
+/r/Unexpected
+
+/r/Eyebleach 
+
+/r/WhatIsThisThing  
+
+/r/InterestingAsFuck **New**
+
+-------------
+
+**The moderators of /r/WTF reserve the right to moderate posts and comments at their discretion, with regard to their perception of the suitability of said posts and comments for this subreddit.** Thank you for your understanding.
+
+-------------
+
+If you have any questions, comments, or concerns about /r/WTF you can contact us by clicking the '[message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2FWTF)' link, located on the lower right hand side of the page. However, before you do that please check and make sure that your questions or concerns haven't already been [answered here](http://www.reddit.com/r/InternetAMA/comments/1950b4/we_are_the_moderators_of_rwtf_ask_us_anything/). , over18=false, subscribers=4426565, title=WTF?!, url=/r/WTF/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=[New to reddit? Click here!](/wiki/reddit_101)
+
+* You learn something new every day; what did *you* learn today?
+ 
+* Submit interesting and **specific facts** that you just found out (not broad information you looked up, TodayILearned is not [/r/wikipedia](/r/wikipedia)).
+ 
+#Posting rules#
+ 
+1. Submissions must be verifiable*. Please link directly to a reliable source that supports the claim in your post title.* Images alone do not count as valid references. *Videos are fine so long as they come from reputable sources (e.g. BBC, Discovery, etc).*
+ 
+1. No personal opinions, *anecdotes or subjective statements (e.g "TIL xyz is a great movie").*
+
+1. No news or recent sources. *News and any sources (blog, article, press release, video, etc.) more recent than two months are not allowed.*
+ 
+1. Nothing related to recent politics.
+ 
+1. No misleading claims*. Posts that omit essential information, or present unrelated facts in a way that suggest a connection will be removed.*
+ 
+1. *Rephrase your post title if the following are not met:*
+   1. *Titles must begin with "TIL ..."*
+   1. *Make them descriptive, concise and specific (e.g.* not *"TIL something interesting about bacon").*
+   1. *Titles* must be able to stand on their own *without requiring readers to click on a link. Starting your title with a why/what/who/where/how modifier should be unnecessary.*
+   1. *"TIL about ..." and other broad posts don't belong on TIL. Try /r/Wikipedia, etc. instead, or be more specific (and avoid the word "about").*
+   1. *"TIL how to ..." posts belong on* **/r/HowTo.**
+1. *No trivial or obvious facts (e.g. "TIL the sky is blue"), or facts that appeal only to a narrow audience, specifically* no software/website tips *(e.g. "TIL you can click on widgets in WidgetMaker 1.22").*
+1.  All NSFW links must be tagged *(including comments).*
+####  *Please see the [wiki](http://www.reddit.com/r/todayilearned/wiki/index) for more detailed explanations of the rules.*
+
+
+
+([Why we need rules](http://www.reddit.com/wiki/faq#wiki_why_does_reddit_need_moderation.3F_can.27t_you_just_let_the_voters_decide.3F))
+ 
+#Additional info#
+ 
+* If your post does not appear in the [new queue](http://www.reddit.com/r/todayilearned/new/) and you think it meets the above rules, please **[contact the moderators](http://www.reddit.com/message/compose?to=%23todayilearned)** (include a link to your *reddit.com* post, not your story).
+ 
+* Please report spam, inaccurate or otherwise inappropriate posts by [messaging the moderators](http://www.reddit.com/message/compose?to=%23todayilearned), as this helps us remove them more promptly!
+
+* More information available on the [TIL FAQ](http://www.reddit.com/r/todayilearned/wiki/faq) and [wiki.](http://www.reddit.com/r/todayilearned/wiki) 
+ 
+#Etiquette#
+ 
+We ask that you *please* do the following:
+
+1. *avoid mobile versions of websites (e.g. [m.wikipedia.org](http://m.wikipedia.org))*
+ 
+1. *link to the appropriate heading when referencing an article (particularly on Wikipedia)*
+ 
+1. *link to the appropriate start time when referencing videos (e.g. [on YouTube](http://youtubetime.com/))*
+ 
+1. *add [PDF] or [NSFW] tags to your posts, as necessary.*
+
+1. *Please avoid reposting TILs that have already made the front page in the past*
+
+
+[](#space)
+
+Please also read the site-wide [Reddiquette](http://www.reddit.com/help/reddiquette).
+ 
+---
+ 
+**Talk with us on IRC**: #todayIlearned on irc.freenode.org, or just [click here](http://webchat.freenode.net?channels=todayilearned&amp;ulo=d4/).
+ 
+* To adapt this style to your own subreddit, message /u/legweed! Thanks legweed!
+
+---
+
+* *You are loved.*
+
+[](#/RES_SR_Config/NightModeCompatible), over18=false, subscribers=6514414, title=Today I Learned (TIL), url=/r/todayilearned/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=
+A great place for video content of all kinds. Direct links to major video sites are preferred (e.g. YouTube, Vimeo, etc.)
+
+[New to reddit? Click here!](/wiki/reddit_101)
+
+#Rules#
+
+1. No politics. *Political videos (including ones related to current political figures) should be submitted to [r/politics](http://www.reddit.com/r/politics), [r/worldpolitics](http://www.reddit.com/r/worldpolitics), etc.*
+
+1. No personal information *such as names, Facebook pages, phone numbers, addresses, etc. This is grounds for an immediate (and likely permanent) ban, so consider this a warning.*
+
+1. No witch-hunting *or incitement to witch hunt. This means no demanding "Reddit justice" in any way in post titles or comments.*
+
+1. No videos of police brutality or harassment. *Consider submitting those to a different subreddit, like /r/Bad_Cop_No_Donut or elsewhere.*
+
+1.  Submit direct link to video *(no web pages that only embed Youtube or Vimeo videos). No URL shorteners. No links to playlists or to channel pages.*
+
+1.  No videos of porn or gore. *There are many other subreddits for such content.*
+
+1.  No solicitation of votes or views. No asking for votes or sharing submission links on or off-site (Facebook, Twitter, etc). *Violations can lead to permanent ban of accounts and video channel.*
+
+1. No commenting with racial slurs.
+
+If your submission does not appear in the [new queue](http://www.reddit.com/r/videos/new/), please [contact us](http://www.reddit.com/message/compose?to=%23videos) (be sure to **include a link to the Reddit post (i.e. comments section), not the content you are linking**). Simply deleting your post may cause the spam filter to catch future ones.
+
+Also, please [contact us](http://www.reddit.com/message/compose?to=%23videos) regarding spam, political or any other inappropriate videos, as this helps us remove them more quickly!
+
+#Recommended subreddits#
+
+* Need more? Check out [/r/video](/r/video) and /r/YouTube
+
+* Like movie trailers? check out [/r/trailers](/r/trailers)
+
+* Wish you could channel surf through the best videos on reddit? Try [reddit.tv](http://reddit.tv)
+
+----
+
+### Please no posting of personal info such as Facebook, Twitter, etc.  , over18=false, subscribers=5964571, title=Videos, url=/r/videos/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=1. [World Championship Survival Guide 2014](/r/leagueoflegends/wiki/wcsurvivalguide2014)
+
+---
+
+[Promo Image](http://lolesports.com/the-road-to-worlds#redditprimg)
+
+######World Championship Calendar
+
+&gt; [**Sept 8, 4pm EDT** - Worlds Reveal Show](http://www.lolesports.com)
+
+&gt; *More dates coming soon*
+
+######Recent News
+
+&gt; [**Sept 6** - Design Values: Meaningful Choices](http://na.leagueoflegends.com/en/news/game-updates/features/lol-design-values-depth-meaningful-choices)
+
+&gt; [**Sept 5** - Dev Blog: Exploring Runeterra](http://na.leagueoflegends.com/en/creative-spotlight/dev-blog-exploring-runeterra)
+
+&gt; [**Current Patch Notes:** Patch 4.16](http://goo.gl/79sdJ1)
+
+###### AMAs
+
+&gt; ~~[**11 Sep, 6pm PDT** - Azubu and KeSPA](http://redd.it/2g5rr3)~~
+
+&gt; ~~[**12 Sep, 1pm PDT** - Team 8](http://redd.it/2g8bgw)~~
+
+&gt; ~~[**12 Sep, 4pm PDT** - Team OMG](http://redd.it/2g8se0)~~
+
+&gt; ~~[**13 Sep, 1pm PDT** - CoL Kubz](http://redd.it/2gbaia)~~
+
+&gt; ~~[**13 Sep, 5pm PDT** - KabuM! eSports](http://redd.it/2gbwki)~~
+
+&gt; ~~[**15 Sep, 6pm CEST** - UoL](http://redd.it/2ggxgv)~~
+
+&gt; [**15 Sep, 2pm PDT** - Crs Markz](http://redd.it/2ghtwh#live)
+
+&gt; *[^(Click here if you wish to create &amp; schedule an AMA.)](http://www.reddit.com/message/compose?to=%2Fr%2Fleagueoflegends&amp;subject=AMA%20Form%20Request)*
+
+----
+
+[Submit](http://www.reddit.com/r/leagueoflegends/submit?selftext=true)
+[Submit](http://dd.reddit.com/r/leagueoflegends/submit?selftext=true)
+
+----
+
+#Subreddit Rules
+
+&gt; 1. [Click to read our full Subreddit Rules](http://goo.gl/YAf8d9)
+
+&gt; * [?](#y) Content directly related to LoL.
+
+&gt; * [?](#y) [Tweets, Images in self-posts only](#hover "Except for infographics").
+
+&gt; * [?](#n) [Server Status Posts.](#hover "We will put links to server issues in our header when they arise.")
+
+&gt; * [?](#n) [Witch hunting](/r/leagueoflegends/w/witchhunting) or hateful speech.
+
+&gt; * [?](#n) Content unrelated to League of Legends.
+
+&gt; * [?](#n) Personal questions, messages, or pictures.
+
+&gt; * [?](#n) Personal sob stories.
+
+&gt; * [?](#n) Streams, unless for an event.
+
+&gt; * [?](#n) Begging for skins or RP.
+
+&gt; * [?](#n) [Nondescript acronyms](#hover "DAE, TIL, PSA, etc.") in titles.
+
+&gt; * [?](#n) Memes, jokes, or NSFW content.
+
+&gt; * [?](#n) Giveaways.
+
+&gt; * [?](#n) [Anything violating Riot's ToS or EULA.](#hover "Do not post hacks or exploits.
+No selling or purchasing accounts.
+No Elo boosting advertisements or requests.")
+
+&gt; * [?](#n) Spoilers in titles.
+
+&gt; * [?](#n) PBE bug reports.
+
+&gt; * [?](#n) Unrelated post edits.
+
+&gt; * [?](#n) Account or Tech Support questions.
+
+&gt; * [?](#n) Reposts.
+
+&gt; * [?](#n) [Spam.](/r/leagueoflegends/w/subredditrules#wiki_spam_is_not_allowed.3B_comment_before_you_share2)
+
+----
+
+#Resources
+
+&gt; * [The Subreddit Wiki Index](/r/leagueoflegends/w/index)
+
+&gt; * [Community Resources - News, Guides, etc.](/r/leagueoflegends/w/resources)
+
+&gt; * [Community FAQ - About League, Reddit, and Life](/r/leagueoflegends/wiki/FAQ/)
+
+&gt; * **[Got Tech Issues? Here's some fixes!](http://goo.gl/RTs6yd)**
+
+&gt; * **[Riot Support](http://goo.gl/Msa9IZ)**
+
+&gt; * **[Set Flair](http://lol.xzile.net/index.php)**
+
+&gt; * **[Esportcalendar](http://goo.gl/bkyHjF)**
+
+&gt; * [Related Subreddits](/r/leagueoflegends/wiki/relatedsubreddits)
+
+&gt; * [IRC: #r/leagueoflegends](http://redd.it/103ybe)
+
+&gt; * [Official Mumble Server](http://redd.it/qdulf)
+
+&gt; * [Text-post Only Mode](http://dt.reddit.com/r/leagueoflegends)
+
+&gt; * We also support [in comment champion pictures](http://redd.it/qfvjm)
+
+&gt; * [Server Status Updates](http://www.islolup.com/)
+
+&gt; * [2014 Season FAQ](http://leagueoflegends.com/en/competitive/2014-season-faq/)
+
+&gt; * **Other MOBAs:** /r/DotA2, /r/HeroesofNewerth, /r/Smite, /r/Awesomenauts, /r/DawnGate, /r/Strife
+
+---
+
+###Free Champions
+
+&gt;* [**Blitzcrank**](http://gameinfo.na.leagueoflegends.com/en/game-info/champions/blitzcrank "Blitzcrank")
+&gt;* [**Heimerdinger**](http://gameinfo.na.leagueoflegends.com/en/game-info/champions/heimerdinger "Heimerdinger")
+&gt;* [**Jarvan IV**](http://gameinfo.na.leagueoflegends.com/en/game-info/champions/jarvaniv "Jarvan IV")
+&gt;* [**Kayle**](http://gameinfo.na.leagueoflegends.com/en/game-info/champions/kayle "Kayle")
+&gt;* [**Kennen**](http://gameinfo.na.leagueoflegends.com/en/game-info/champions/kennen "Kennen")
+&gt;* [**Miss Fortune**](http://gameinfo.na.leagueoflegends.com/en/game-info/champions/missfortune "Miss Fortune")
+&gt;* [**Nocturne**](http://gameinfo.na.leagueoflegends.com/en/game-info/champions/nocturne "Nocturne")
+&gt;* [**Shen**](http://gameinfo.na.leagueoflegends.com/en/game-info/champions/shen "Shen")
+&gt;* [**Twitch**](http://gameinfo.na.leagueoflegends.com/en/game-info/champions/twitch "Twitch")
+&gt;* [**Zyra**](http://gameinfo.na.leagueoflegends.com/en/game-info/champions/zyra "Zyra")
+
+---
+
+[Light](http://www.reddit.com/r/leagueoflegends)[Select Theme](#theme_select)[Dark](http://dd.reddit.com/r/leagueoflegends), over18=false, subscribers=549027, title=League of Legends, url=/r/leagueoflegends/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=If your submission does not appear, do not delete it. If it hasn't shown up after more than 5 minutes, simply [message the moderators](http://www.reddit.com/message/compose?to=%23gaming) and ask us to look into it.  
+
+#Community Rules
+
+1. **Submissions must be directly gaming-related.** 
+
+1. Following the [Rules of Reddit](http://www.reddit.com/rules) is required. Following [Reddiquette](http://www.reddit.com/help/reddiquette) is encouraged.  
+
+1. No bandwagon or direct reply posts.
+
+1. No piracy.
+
+1. Mark your spoilers and NSFW submissions, comments and links. Spoiler tags are `[X Kills Y](/spoiler)`  .
+
+1. No product requests or giveaways.
+
+1. Submit only the original source of the content. No general URL shorteners (bitly, tinyurl, etc). 
+
+1. No personal websites or videos/channels.  No referral or affiliate links.
+
+1. No Kickstarter, Steam Greenlight, project "reminder" posts. 
+
+1. Posts and comments, whether in jest or with malice, that contain racist, sexist, or homophobic content will be removed, regardless of popularity or relevance.
+
+
+
+##[For a more detailed explanation of these rules, click here.](http://www.reddit.com/r/gaming/wiki/index)
+
+
+## [Click here for a list of other gaming subreddits!](http://www.reddit.com/r/gaming/wiki/faq), over18=false, subscribers=5920036, title=What's new in gaming, url=/r/gaming/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=Links to amusing, interesting, or funny .gifs from the web! **.gif format submissions only, please!**
+
+**If there is a violation of the rules, *please* [message the moderator team](http://www.reddit.com/message/compose?to=%2Fr%2Fgifs) and report the problem.**
+
+[New to reddit? Click here!](/wiki/reddit_101)
+------------------
+
+1. **Please try not to repost.** Gifs that have been posted recently or frequently to /r/gifs will be deleted, and repeat offenders may be banned. This includes repeatedly removing and reposting your own submissions.  
+Cross-posting any recent popular posts from other subreddits may be counted as reposts. This includes popular video posts converted to gif and posted here. Please send us a modmail about videos that violate this rule, with a link to the video post and the /r/gifs post-- these are harder to catch and we appreciate your help.
+
+2. **No Reaction/HIFW (How I Feel When)/Analogy gifs.**
+
+2. **Do not post gifs that should be videos.** Incredibly long gifs or content much better suited to video formats may be removed.
+
+3. **Do not make posts specifically about cakeday** (example: "For my cakeday I present to you...")  
+This rule does not apply to wishing someone a happy cakeday in the comments and other similar comments.
+
+4. **Direct image links REQUIRED**. No links to image pages or albums are allowed, and **no other file formats ~~(HTML5, jpg, png, etc)~~** are allowed - your submission must be a single gif image. **.gif format only.** URL-shorteners are **NOT** allowed in posts or comments!
+
+5. **Mark your risque posts as NSFW**; this implies the comments within will be too.
+
+6. ***Nudity, porn, gore, and other obscene material are not allowed in posts or comments - No exceptions.***  If it can get you fired then it should not be here. Failure to comply will result in removal of post and banning. Please refer to /r/nsfw_gifs or /r/nsfw_gif
+
+7. **Titles must be descriptive.** Do not make submissions with the title "This", "This is my favorite gif", and etc.
+
+8. **No hate speech of any kind.** Racist, sexist, or homophobic submissions or comments will result in an immediate ban.
+
+9. **Please familiarize yourself with the [official rules](http://www.reddit.com/rules/) and [reddiquette](http://www.reddit.com/wiki/reddiquette).**
+
+----------------
+
+**Related Links:**
+
+[How to make your own animated gifs?](http://www.reddit.com/r/gif/comments/uhy9u/gifers_of_reddt_what_is_the_easiest_way_to_edit_a/)
+
+/r/gifrequests
+
+/r/makemeagif
+
+/r/physicsgifs
+
+/r/perfectLoops 
+
+/r/reactiongifs
+
+/r/mechanical_gifs
+
+/r/SurrealGifs 
+
+/r/SpaceGifs
+
+/r/interestinggifs
+
+/r/highqualitygifs
+
+/r/naturegifs 
+
+/r/behindthegifs
+
+/r/EducationalGifs ****New****
+
+/r/MichaelBayGifs ****New****
+
+/r/GifExtra ****New****
+, over18=false, subscribers=3591925, title=.gifs - funny, animated gifs for your viewing pleasure, url=/r/gifs/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=---------
+**You can see your comment score, but everyone else's score is hidden. [Click to find out more.](http://goo.gl/wYCYub)**  The current delay is -- **60** -- minutes
+
+--------
+
+**Use a [[Serious]](http://goo.gl/gMFZjB) post tag to designate your post as a serious, on-topic-only thread**.  [**[Browse all [Serious] posts]**](http://goo.gl/xczu3d)
+
+**Use a [[Stories]](http://goo.gl/vS3lnI) post tag to designate your post as a stories-only thread**.  [**[Browse all [Stories] posts]**](http://goo.gl/7Gz8Lm)
+
+---
+
+**Do you have ideas or feedback for Askreddit? Submit to /r/Ideasforaskreddit.**
+
+---
+
+**Check out our [Wiki  page for the rules and other info.](http://goo.gl/CYUF5I)**
+
+---
+
+* 1 a) **You must post a clear and direct question, and only the question, in your title.** Any context or clarification should be posted in the text box. 
+
+   b) **Any answers to the question, including your own, should go in the comments** as a reply to your own post. [[More](http://goo.gl/tMUR4k)]
+
+* 2) Any post asking for advice should be **generic** and **not specific to your situation alone**. You may include context about why you are asking the question **in the text box** but the question **shouldn't be primarily about you**.  [[More](http://goo.gl/2L771B)]
+
+* 3) **Askreddit is for open-ended discussion questions**. Questions with a single correct answer, that can be researched elsewhere or provide a limited scope for discussion (yes/no, DAE, polls etc.) are not appropriate. [[More](http://goo.gl/DcPPLf)]
+
+* 4) **Posting, or seeking, any identifying personal information will result in a ban without a prior warning**. This includes for yourself or other people, and refers to, but is not limited to,  names, phone numbers, email addresses and social media accounts. [[More](http://goo.gl/imCCMb)]
+
+* 5) **Askreddit is not your soapbox, personal army, or advertising platform.** Posts attempting to promote a specific agenda of yours or anyone else, to gain publicity, promote a cause or charity, or to publicly shame a person or entity will be removed. Rhetorical and loaded questions will also be removed. [[More](http://goo.gl/DG4Q2M)]
+
+* 6) **Questions seeking professional advice are inappropriate for this subreddit and will be removed.** This includes but is not limited to medical, legal, mental health and financial advice. If you think that you need professional support, please contact a professional in your area. [[More](http://goo.gl/G6Zbap)]
+
+* 7) **Soliciting money, goods, services, or favors is not allowed.** They will be removed. [[More](http://goo.gl/Ce2LTY)]
+
+* 8) **Mods reserve the right to remove content or restrict users' posting privileges as necessary if it is deemed detrimental to the subreddit or to the experience of others.** All users are expected to be **respectful** to other users at all times. Personal attacks or comments that insult or demean a specific user or group of users will be removed and regular or egregious violations will result in bans.
+ [[More](http://goo.gl/a5GQTm)]
+
+* 9) **Comment replies consisting solely of images will be removed.** [[More](http://goo.gl/YVNgU0)]
+
+* 10) If you think your post has disappeared, see spam or an inappropriate post, please do not hesitate to [contact the mods](http://goo.gl/xnppZr), we're happy to help. 
+
+----------
+
+Interested in the amount of traffic /r/AskReddit receives daily/monthly? Check out our [traffic stats here](http://goo.gl/su6Az1)!
+
+-----------
+
+**We have spoiler tags, please use them!** 
+\[Text you want visible](#s "Text you want hidden")
+
+Looks [like this](#s "should work on all platforms")
+
+----------
+
+&gt;&gt; **Other reddits you may like**
+&gt;&gt;&gt;Related| Subreddits
+:--|:--
+[Ask Gender](http://goo.gl/N67DsV) | [Ask Others](http://goo.gl/KrhScT)
+[Find a Reddit](/r/findareddit) | [Subreddit Search](http://goo.gl/DAhLkp)
+[Meta Subs](http://goo.gl/I1dppj) | [What is this ___ ](http://goo.gl/MotA8Y)
+[Tech](http://goo.gl/WxdBwB) | [Reddit Support](http://goo.gl/kNzhbB)
+[Dating &amp; Relationships](http://goo.gl/2dnqoj) | [Offers &amp; Assistance](http://goo.gl/JeApY9)
+[Tip of my Tongue](/r/tipofmytongue) | [Self-Oriented](http://goo.gl/bn1Okw)
+
+____________
+
+[Ever read the **reddiquette**?  Take a peek!](http://goo.gl/pxsd8T)
+
+--------------
+
+######[Join us in the AskReddit IRC!](http://goo.gl/JZvBMt)
+
+####[Submit a new [Serious] post](http://www.reddit.com/r/askreddit/submit?selftext=true&amp;title=%5BSerious%5D)
+
+####[Submit a new [Stories] post](http://www.reddit.com/r/askreddit/submit?selftext=true&amp;title=%5BStories%5D)####, over18=false, subscribers=6640867, title=Ask Reddit..., url=/r/AskReddit/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=&gt;&gt;&gt; - **Other Subs:**
+
+&gt;&gt;&gt; - [Related](http://goo.gl/m1J6uv)
+&gt;&gt;&gt;     - /r/News
+&gt;&gt;&gt;     - /r/PoliticalDiscussion
+&gt;&gt;&gt;     - /r/WorldPolitics
+&gt;&gt;&gt;     - /r/WorldEvents
+&gt;&gt;&gt;     - /r/GeoPolitics
+&gt;&gt;&gt;     - /r/InternationalPolitics
+&gt;&gt;&gt;     - /r/InternationalBusiness
+&gt;&gt;&gt;     - /r/Business
+&gt;&gt;&gt;     - /r/Economics
+&gt;&gt;&gt;     - /r/Environment
+&gt;&gt;&gt;     - /r/History
+&gt;&gt;&gt;     - /r/WikiLeaks
+&gt;&gt;&gt;     - /r/HumanRights
+&gt;&gt;&gt;     - /r/NSALeaks
+&gt;&gt;&gt;     - /r/doctorswithoutborders
+&gt;&gt;&gt;     - /r/Features
+&gt;&gt;&gt;     - /r/UpliftingNews
+&gt;&gt;&gt;     - /r/globalhealth
+&gt;&gt;&gt;     - /r/modded
+&gt;&gt;&gt;     - /r/NewsOfTheWeird
+
+&gt;&gt;&gt; - [N. America](http://goo.gl/jYVloJ)
+&gt;&gt;&gt;     - /r/Politics
+&gt;&gt;&gt;     - /r/USANews
+&gt;&gt;&gt;     - /r/Canada
+&gt;&gt;&gt;     - /r/Mexico
+&gt;&gt;&gt;     - /r/PuertoRico
+
+&gt;&gt;&gt; - [S. America](http://goo.gl/wqovue)
+&gt;&gt;&gt;     - /r/argentina/
+&gt;&gt;&gt;     - /r/Brazil
+&gt;&gt;&gt;     - /r/vzla
+
+&gt;&gt;&gt; - [Europe](http://goo.gl/oiMJUa)
+&gt;&gt;&gt;     - [/r/Bosnia](/r/BiH)
+&gt;&gt;&gt;     - /r/Denmark
+&gt;&gt;&gt;     - /r/Euromaidan
+&gt;&gt;&gt;     - /r/Europe
+&gt;&gt;&gt;     - /r/France
+&gt;&gt;&gt;     - /r/Germany
+&gt;&gt;&gt;     - /r/Ireland
+&gt;&gt;&gt;     - /r/Italy
+&gt;&gt;&gt;     - /r/TheNetherlands
+&gt;&gt;&gt;     - /r/Poland
+&gt;&gt;&gt;     - /r/Portugal
+&gt;&gt;&gt;     - /r/Romania
+&gt;&gt;&gt;     - /r/Russia
+&gt;&gt;&gt;     - /r/Scotland
+&gt;&gt;&gt;     - /r/Serbia
+&gt;&gt;&gt;     - /r/UnitedKingdom
+&gt;&gt;&gt;     - /r/UKPolitics
+&gt;&gt;&gt;     - /r/Ukraina
+&gt;&gt;&gt;     - /r/ukraine 
+&gt;&gt;&gt;     - /r/UkrainianConflict
+
+&gt;&gt;&gt; - [Asia](http://goo.gl/gsotVH)
+&gt;&gt;&gt;     - /r/Afghanistan
+&gt;&gt;&gt;     - /r/India
+&gt;&gt;&gt;     - /r/IndiaNews
+&gt;&gt;&gt;     - /r/NorthKoreaNews
+&gt;&gt;&gt;     - /r/Pakistan
+&gt;&gt;&gt;     - /r/Philippines
+&gt;&gt;&gt;     - /r/Singapore
+
+&gt;&gt;&gt; - [Middle East](http://goo.gl/GA0QJW)
+&gt;&gt;&gt;     - /r/Iran
+&gt;&gt;&gt;     - /r/Iraq
+&gt;&gt;&gt;     - /r/Israel
+&gt;&gt;&gt;     - /r/LevantineWar
+&gt;&gt;&gt;     - /r/MiddleEastNews
+&gt;&gt;&gt;     - /r/MideastPeace
+&gt;&gt;&gt;     - /r/Palestine
+&gt;&gt;&gt;     - /r/Syria
+&gt;&gt;&gt;     - /r/SyrianCivilWar
+&gt;&gt;&gt;     - /r/SyrianUprising
+&gt;&gt;&gt;     - /r/Turkey
+
+&gt;&gt;&gt; - [Africa](http://goo.gl/DifApT)
+&gt;&gt;&gt;     - /r/Africa
+
+&gt;&gt;&gt; - [Oceania](http://goo.gl/k8cUqs)
+&gt;&gt;&gt;     - /r/Australia
+&gt;&gt;&gt;     - /r/NewZealand 
+&gt;&gt;&gt;     - /r/Westpapua
+
+
+######[](#icon-note) A couple of topics are currently dominating this subreddit. If you are more interested in what else goes on in the world, we suggest you use the buttons in the sidebar to filter them out.
+
+## **Filter out dominant topics:**
+
+[Display Ukraine/Russia submissions](http://www.reddit.com/r/worldnews#nu)
+
+[Filter Ukraine / Russia](http://nu.reddit.com/r/worldnews#www)
+
+[Display Iraq/ISIS submissions](http://www.reddit.com/r/worldnews#ii)
+
+[Filter Iraq / ISIS](http://ii.reddit.com/r/worldnews#www)
+
+[Display Israel/Palestine submissions](http://www.reddit.com/r/worldnews#ni)
+
+[Filter Israel / Palestine](http://ni.reddit.com/r/worldnews#www)
+
+[Display Ebola submissions](http://www.reddit.com/r/worldnews#ne)
+
+[Filter Ebola](http://ne.reddit.com/r/worldnews#www)
+
+[Display all submissions](http://www.reddit.com/r/worldnews#iu)
+
+[Filter all dominant topics](http://iu.reddit.com/r/worldnews#www)
+
+
+[See gilded /r/worldnews comments](http://www.reddit.com/r/worldnews/comments/gilded)
+
+[**Message the moderators**](http://www.reddit.com/message/compose?to=%2Fr%2Fworldnews)
+
+#### [](#h4-green)
+&gt;# Welcome!
+&gt;
+&gt; /r/worldnews is for major news from around the world except US-internal news / US politics
+
+###### [](#h6-red)
+&gt;#Worldnews Rules
+&gt;
+&gt;[See the wiki](/r/worldnews/wiki/rules) for details on each rule
+&gt;
+&gt;
+&gt; ---
+&gt;### **Disallowed submissions**
+&gt;
+&gt; * US internal news/US politics
+&gt; * Editorialized titles
+&gt; * Misleading titles
+&gt; * Feature stories
+&gt; * Editorials, opinion, analysis
+&gt; * Non-English articles
+&gt; * Raw images, videos or audio clips
+&gt; * Petitions, advocacy, surveys
+&gt; * All caps titles
+&gt; * Blogspam (if stolen content/direct copy)
+&gt; * Twitter, Facebook, Tumblr
+&gt; * Old news (?1 week old) articles
+
+&gt;### **Disallowed comments**
+&gt;
+&gt; * Racism
+&gt; * Sexism
+&gt; * Homophobia
+&gt; * Other offensive content
+&gt; * Unlabeled NSFW images/videos
+&gt; * Memes/GIFs
+&gt; * URL shorteners
+&gt; * Personal Attacks on other users
+
+&gt; **Continued violation** of the submission or commenting rules will result in your being **banned** from the subreddit without a warning.
+
+&gt;
+&gt;----
+&gt;
+&gt;**Please don't ever feed the trolls.**    
+&gt;Downvote, report and move on.
+&gt;
+&gt;----
+&gt;
+&gt;* [**What Moderators Do and Can't Do**](/r/worldnews/wiki/whatmodsdo)
+
+#### [](#h4-green)
+&gt;# Sticky Posts
+
+&gt; ? /r/worldnews/wiki/stickyposts - Link to all open discussion sticky posts. Updated as we go, over18=false, subscribers=6387063, title=World News, url=/r/worldnews/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=1. [**Why PC?**](http://goo.gl/jkhMSq "A very long guide covering the advantages of PC gaming over console gaming")
+2. [**Builds**](http://goo.gl/kk5zJX "A page full of resources and tips for building, as well as a long list of preconfigured part lists")
+3. [**Servers**](http://goo.gl/24BSNQ)
+2. [**Games**](/r/pcmasterrace/wiki/games)
+7. [**Memeless**](http://goo.gl/Q2EhQD "Filter just memes")
+6. [**Red**](http://goo.gl/k7j0Em "All Red Flair")
+8. [**Green &amp; Blue**](http://goo.gl/33u7Ar "All Green+Blue Flair")
+
+
+Welcome to the official subreddit of the PC Master Race!
+
+**This is not a satirical or circlejerk subreddit nor did it start as one. This is a normal subreddit with satirical &amp; circlejerk humor elements.**
+
+Everybody is welcome here, even those that have yet to ascend to the Master Race.
+
+**You don't need a top-of-the-line gaming PC to be a member of the Master Race. You don't even need to own a PC. You just have to recognize that PC is objectively superior to consoles in every way possible [as explained here](/r/pcmasterrace/wiki/guide)!**
+
+**Check out our [repository](/r/pcmasterrace/wiki/repository), [PC part lists](/r/pcmasterrace/wiki/builds), [Mumble server](/r/pcmasterrace/wiki/mumbleguide), and our other various [popular wiki pages and guides](/r/pcmasterrace/wiki/index)!**
+
+ - **Follow the rules below:**
+ - **Rule #1** Harassment of others is strictly forbidden. We will not tolerate any kind of incitement to action against anyone.
+ - **Rule #2** Follow [reddiquette](http://www.reddit.com/wiki/reddiquette). We will not allow behavior contrary to reddiquette, especially brigading, witch-hunting, vote manipulation, and flamebaiting.
+ - **Rule #3** Do not link directly to threads in other subreddits. This includes NP links, which aren't allowed either.
+ - **Rule #4** Screenshots of Reddit, Facebook, Youtube and other social networks' comments and discussions should have the usernames blacked out (this includes yours!). Celebrities are the exception.
+ - **Rule #5** No referral or affiliate links.
+ - **Rule #6** Memes are allowed as long as the image and/or text is relevant to what is usually discussed here and they aren't blatant reposts or low-effort. Reaction images are **not** allowed as submissions
+ - **Rule #7** Linking the PC Master Race with racial supremacy or any kind of fascist ideologies is not acceptable in the slightest. Age, nationality, race, gender, sexuality, and religion are all irrelevant here. All are welcome in the PC Master Race.
+ - **Rule #8** No begging.
+ - **Rule #9** Do not mark your post as NSFW unless it actually is NSFW. 
+ - If your post doesn't show up immediately it might have been caught by the spam bot. Please do not delete your submission, but [message the mod team instead](http://www.reddit.com/message/compose?to=%2Fr%2Fpcmasterrace).
+ - The Master Race is generous. When we do giveaways we do it within the bounds of our subreddit. **Feel free to give the games as you see fit**, but refrain from demanding subscribes and comments on your YouTube channel and whatnot. You can post about your channel, just don't make it a requirement to subscribe or comment there to get prizes. We prefer image screenshots of keys, since *key-stealing bots can take your keys* if you post them in plaintext. Also consider PMs as a safer way to hand out keys.
+ - Charity submissions must be verified by moderators.
+ - Snoo by KeyFramez and banner by /u/tanya3 
+
+&gt;&gt;&gt; * **Conversion ?**
+&gt;&gt;&gt;  * [Why PC is best](http://goo.gl/jkhMSq)
+&gt;&gt;&gt;  * [30vs60.com](http://30vs60.com/)
+&gt;&gt;&gt;  * ["Propaganda"](/26yt7f)
+&gt;&gt;&gt; * **Special ?**
+&gt;&gt;&gt;  * [Repository](/r/pcmasterrace/wiki/repository)
+&gt;&gt;&gt;  * [Dictionary](/r/pcmasterrace/wiki/dictionary)
+&gt;&gt;&gt;  * [Compact](/r/pcmasterrace/.compact)
+&gt;&gt;&gt; * **[Builds ?](http://goo.gl/kk5zJX)**
+&gt;&gt;&gt;  * [The Media Lite](/r/pcmasterrace/wiki/builds#wiki_the_media_lite)
+&gt;&gt;&gt;  * [The Media Elite](/r/pcmasterrace/wiki/builds#wiki_the_media_elite)
+&gt;&gt;&gt;  * [Next-Gen Crusher](/r/pcmasterrace/wiki/builds#wiki_the_next-gen_crusher)
+&gt;&gt;&gt; * **[Servers ?](/r/PCMasterRace/wiki/servers)**
+&gt;&gt;&gt;  * [TF2 Chicago](steam://connect/74.121.181.103:27025)
+&gt;&gt;&gt;  * [TF2 Dallas](steam://connect/66.34.220.5:27045)
+&gt;&gt;&gt;  * [TF2 London](steam://connect/188.227.161.203:27025)
+&gt;&gt;&gt;  * [Just Cause 2](http://goo.gl/EJuAEk)
+&gt;&gt;&gt;  * [Fistful of Frags](http://goo.gl/8MGiap)
+&gt;&gt;&gt;* **Chat ?**
+&gt;&gt;&gt;  * [Steam](steam://friends/joinchat/103582791434293256)
+&gt;&gt;&gt;  * [Mumble](mumble://74.121.181.100:64748)
+&gt;&gt;&gt;  * [IRC](http://goo.gl/Y30n0r)
+&gt;&gt;&gt;* **Social ?**
+&gt;&gt;&gt;  * [Facebook](http://goo.gl/dYW2KH)
+&gt;&gt;&gt;  * [#PCMasterRace](http://goo.gl/2JM4Xz)
+&gt;&gt;&gt;  * [Steam Group](steam://url/GroupSteamIDPage/103582791434293256)
+&gt;&gt;&gt;  * [Google News](https://www.google.com/#q=pcmasterrace&amp;tbm=nws)
+&gt;&gt;&gt;  * [Live Thread](http://goo.gl/teKj16)
+&gt;&gt;&gt;* **Charity ?**
+&gt;&gt;&gt;  * [Folding@Home](http://goo.gl/DbHrzd)
+&gt;&gt;&gt;  * [Extra Life](http://goo.gl/zHOk98)
+&gt;&gt;&gt;  * [Rice](http://goo.gl/0isdCw)
+&gt;&gt;&gt;* **Flair ?**
+&gt;&gt;&gt;  * [High Quality](http://goo.gl/lD56za)
+&gt;&gt;&gt;  * [Glorious](http://goo.gl/qEAu64)
+&gt;&gt;&gt;  * [Worth the Read](http://goo.gl/56H3Qq)
+
+[](#/RES_SR_Config/NightModeCompatible), over18=false, subscribers=208556, title=PC Master Race - A fifth of a million and growing!, url=/r/pcmasterrace/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=---
+
+Please make sure that you are familiar with the **[rules of this subreddit](/r/smashbros/wiki/rules)**.
+
+**Weekly Discussion Threads**
+ 
+* [Official Smash 4 Discussion/Speculation Thread - 31/8](http://redd.it/2f3ln3)
+* [Metagame Monday 49 - Weekly Smash Q&amp;A Thread](http://redd.it/2gg9ep)
+* [Character Discussion 6](http://redd.it/2dcnt0)
+* [Watch Me Wednesday - 7/16/2014](http://www.reddit.com/r/smashbros/comments/2avqim/watch_me_wednesday_7162014/)
+
+**Upcoming AMAs**
+
+* ~9/12 - Poor|Zhu
+
+
+**Live Smash Streams**
+
+###### START STREAM LIST
+
+* [^^^^^**Smash3DS** **ZeRo** - 2845 viewers](http://www.twitch.tv/zero)
+
+
+
+* [^^^^^**Smash3DS** **TheJustinFlynn** - 1690 viewers](http://www.twitch.tv/thejustinflynn)
+
+
+
+* [^^^^^**Smash3DS** **EverAlert** - 61 viewers](http://www.twitch.tv/everalert)
+
+
+
+* [^^**Melee** **AtmaIllumina** - 9 viewers](http://www.twitch.tv/atmaillumina)
+
+
+
+* [^^^^^**Smash3DS** **chillindude2** - 8 viewers](http://www.twitch.tv/chillindude2)
+
+
+
+* [^^**Melee** **Druggedfox** - 1 viewers](http://www.twitch.tv/druggedfox)
+
+###### END STREAM LIST
+
+&gt; * **Wiki**
+&gt; * [**Index**](/r/smashbros/wiki/index)
+&gt; * [Rules](/r/smashbros/wiki/rules)
+&gt; * [Regional Facebook Groups](/r/smashbros/wiki/facebook)
+&gt; * [Glossary of Terms](/r/smashbros/wiki/glossary)
+&gt; * [Related Subreddits](/r/smashbros/wiki/related)
+&gt; * [Past AMAs](/r/smashbros/wiki/amas)
+&gt; * [Differences Between the Smash Games](/r/smashbros/wiki/gamedifferences)
+&gt; * [Input Lag](/r/smashbros/wiki/lag)
+&gt; * [Add Your Stream to the Sidebar](/r/smashbros/wiki/streams)
+&gt;
+&gt;---
+&gt;
+&gt; * **Streams**
+&gt; * [CLASH Tournaments](http://twitch.tv/clashtournaments)
+&gt; * [Level Up Live](http://www.twitch.tv/leveluplive)
+&gt; * [Melee It On Me](http://twitch.tv/meleeitonme)
+&gt; * [Salty Playground](http://twitch.tv/saltyplayground)
+&gt; * [Smash Studios](http://twitch.tv/smashstudios)
+&gt; * [VGBootCamp](http://twitch.tv/vgbootcamp)
+&gt; * [Showdown Smash](http://www.twitch.tv/showdownsmash)
+&gt;
+&gt;---
+&gt;
+&gt; * **Events**
+
+
+&gt; * [**Tipped Off 10** | Sep 20-21 | Atlanta, GA](http://on.fb.me/1qgw6aH)
+&gt; * [**The Big House 4** | Oct 4-5 | Romulus, MI](http://bit.ly/TQAu1k)
+&gt; * [**Complete Tournament Listing**](http://smashboards.com/forums/tournament-listings.51/)
+
+
+&gt;---
+&gt;
+&gt; * **Play Online**
+&gt; * [Anther's Netplay Ladder](http://ladder.anthrzy.com/)
+&gt; * [Using New Brawl Wifi Servers](http://bit.ly/1gaIswe)
+&gt; * [Smash 64 Netplay Guide](/r/smashbros/comments/ifzgv/ysk_how_to_play_super_smash_bros_and_other_n64/)
+&gt; * [Melee Netplay Guide](http://bit.ly/1hSZhHS)
+&gt; * [Melee Netplay Channel](https://qchat.rizon.net/?channels=dolphin-ssbm&amp;uio=Nz10cnVlJjk9MzU3fe)
+&gt; * [Project M Netplay Guide](/r/SSBPM/comments/1t4iab/project_m_30_netplay_guide/)
+&gt; * [Project M Netplay Channel](http://bit.ly/KwvtGg)
+&gt;
+&gt; ---
+&gt;
+&gt; * **IRC**
+&gt; * [Chatroom](http://irc.lc/thinstack/smashbros)
+&gt; * [FAQ](/r/smashbros/wiki/irc)
+&gt;
+&gt;---
+&gt;
+&gt; * **Resources**
+&gt; * [Official Smash Bros. Website](http://www.smashbros.com/us/)
+&gt; * [SmashBoards](http://www.smashboards.com)
+&gt; * [All is Brawl](http://www.allisbrawl.com)
+&gt; * [Liquipedia Smash](http://wiki.teamliquid.net/smash/Main_Page)
+&gt; * [SmashWiki](http://www.ssbwiki.com)
+&gt; * [Project M](http://projectmgame.com/en/)
+&gt; * [Vods.co](http://ladder.anthrzy.com/)
+&gt;
+&gt; ---
+&gt;
+&gt; * **Filters**
+&gt; * [None (everything)](/r/smashbros)
+&gt; * [Super Smash Bros. (Nintendo 64)](/r/smashbros/search?q=flair%3A64&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+&gt; * [Super Smash Bros. Melee (Gamecube)](/r/smashbros/search?q=flair%3Amelee&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+&gt; * [Super Smash Bros. Brawl (Wii)](/r/smashbros/search?q=flair%3Abrawl&amp;restrict_sr=on&amp;sort=new&amp;t =all)
+&gt; * [Super Smash Bros. for Wii U/Nintendo 3DS](/r/smashbros/search?q=flair%3Assb4&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+&gt; * [Project M](/r/smashbros/search?q=flair%3Aprojectm&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+&gt; * [Meta](/r/smashbros/search?q=flair%3Ameta&amp;restrict_sr=on&amp;sort=new&amp;t=all), over18=false, subscribers=90041, title=Super Smash Bros., url=/r/smashbros/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=#####[&amp;nbsp;](http://www.reddit.com/r/mildlyinteresting/submit?title=Titles%20must%20be%20minimal%2C%20on%20point%20descriptions%20of%20the%20content%20and%20nothing%20more.%20Jokes%2C%20backstories%2C%20and%20any%20other%20%22fluff%22%20will%20not%20be%20permitted)
+
+Aww, cripes. I didn't know I'd have to write a description. How many words is that so far, like a hundred? Soooo, yeah. Mildly interesting stuff. Stuff that interests you. Mildly. It's in the name, ffs.
+
+**[Submission Rules](http://www.reddit.com/r/mildlyinteresting/comments/2b01yp/new_rules_new_mods/)**
+
+1. No memes.
+2. Related posts must be put in the comments of the original (e.g. no [fixed] posts).
+3. Do not submit anything which has been submitted anywhere on reddit before. ([KD](http://karmadecay.com/r/mildlyinteresting))
+4. We only allow original content. If you didn't create it, don't post it. 
+5. No screenshots or screen-grabs of any kind.
+6. Titles must be minimal, on point descriptions of the content and nothing more. Jokes, backstories, and any other "fluff" will not be permitted ([Read More](http://www.reddit.com/r/mildlyinteresting/comments/21p15y/rule_6_for_dummies/))
+7. No articles.
+
+*Posts which break the rules will be removed on sight. This subreddit operates a three-strikes rule on submission bans, and instant bans on troll gimmick accounts, shock links, etc at moderator discretion.*
+
+[List of other Subreddits and Mild Network that may evoke mild emotions.](http://www.reddit.com/r/mildlyinteresting/comments/zytpk/list_of_similar_subreddits_and_mild_network/)
+
+, over18=false, subscribers=1575361, title=For things that are, you know, mildly interesting., url=/r/mildlyinteresting/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=RULES:
+
+1)No direct links to 4chan.org
+
+2)All posts must be related to 4chan.org: either a screenshot of or image with a direct relationship to 4chan.
+
+3)Trivial GET posts, active raid threads, Omegle logs, Combos, 4chan posts about Reddit, Comics, Greentext copypasta and the like will be removed. Anything about Jimmies outside of the context of 4chan will also be removed.
+
+4)[Reddit terms of use](http://www.reddit.com/help/useragreement/) still apply to r/4chan. Violating these terms by posting others? personal information, (Phone numbers, Addresses, Social media links...etc) or Child pornography will result in an immediate and permanent ban.
+
+5)Reddiquette Still Applies.
+
+6)Remember, this is not 4chan.
+
+Want to submit a post older than your qt3.14gf? Try [/r/Classic4chan](http://www.reddit.com/r/classic4chan)., over18=false, subscribers=510882, title=4chan, url=/r/4chan/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=### Come for the period comics. Stay for the cultural awareness.
+---
+
+* Please be respectful of others.
+* No posting about other subreddits or linking to other threads.
+* Use the [NSFW] tag when appropriate.
+
+---
+
+**Information**
+
+* [**Using Faces in Comments**](http://www.reddit.com/r/TrollXChromosomes/comments/j773n/new_rage_faces)
+
+---
+
+**related subreddits**
+
+* **/r/TwoXChromosomes** - the original
+* **/r/AskTrollX** - for TrollX question gifs
+* **/r/TrollYChromosome** - brothers in memes
+* **/r/Troll4Troll** - meetups for TrollX and TrollY
+* **/r/TrollMedia** - movie and TV show chat
+* **/r/TrollMeta** - meta discussion
+* **/r/Trollchromosomes** - subreddit for IRC
+
+---
+
+### TrollX charity campaign [[more info]](http://www.reddit.com/r/TrollXChromosomes/comments/24gukq/announcing_the_trollx_charity_campaign_and_a/)
+
+[*She's The First*](https://www.redditdonate.com/donate/186), over18=false, subscribers=86451, title=TrollXChromosomes, url=/r/TrollXChromosomes/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=[**Join Us:** /r/trees Plug.DJ Room](https://plug.dj/r-trees-music)
+
+
+[](/r/trees/submit)
+
+#
+
+
+ 
+&gt;* **Ent Subreddits**
+* Local: [US](http://www.reddit.com/r/trees/wiki/entreddits_local) [World](http://www.reddit.com/r/trees/wiki/entreddits_world) [Global local](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftreelocal)
+* New Ents: /r/Saplings
+* Activism: [/m/Treeform](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftreeform)
+* Art, Comics, NSFW, Poetry, Stories: [/m/TreeArt](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftreeart)
+* Ent fans of TV shows and movies: [/m/TreeFans](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftreefans)
+* Edibles and munchies: [/m/TreeFood](http://www.reddit.com/user/expert02/m/treefood)
+* Ent Gamers: [/m/TreeGames](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftreegames)
+* General Trees: [/m/Trees](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftrees)
+* Knowledge and Information: [/m/TreeKnowledge](http://www.reddit.com/user/tyzon05/m/treeknowledge)
+* Pieces, Pipes, Vaporizers, etc.: [/m/TreeHardware](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftreehardware)
+* [/m/TreeHelp](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftreehelp)
+* Memes &amp; random pictures: [/m/TreeMeme](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftreememe)
+* Movies, Songs, Sounds, Books: [/m/TreeMedia](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftreemedia)
+* Nugs, Growing: [/m/Nuglife](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Fnuglife)
+* Religious Ents: [/m/Treeligion](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftreeligion)
+* Trees Business and Marketing: /r/treebusiness 
+* Vaporizer discussion: /r/vaporents
+* [Tree Elders](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftree_elders)
+* [Tree Ladies](http://www.reddit.com/r/trees/wiki/entreddits_social#wiki_.2Fm.2Ftree_ladies)
+
+****
+
+- Welcome to /r/Trees! Please make sure to read the [/r/trees posting rules](http://www.reddit.com/r/trees/wiki/index#wiki_rules)
+ 
+- ###Posting Rules
+ 
+* As of May 12th, 2014
+
+ *  **/r/trees is an 18+ community.**
+
+ * **Memes, gifs, image macros, and off-topic posts need to be posted on /r/see.**
+
+ * **Do not ask for hookups, meetups, or advice on how to buy trees.**
+
+ * Be respectful to fellow posters - Name calling, rudeness, and trolling are not welcome here.
+
+ * Link posts must be directly related to cannabis.
+ 
+ * Do not post NSFW or porn to /r/trees.
+
+ * Do not post pictures of tagging or other vandalism. 
+
+ * All forms of advertising are prohibited.
+ 
+ * *note: the mods reserve the right to remove posts at our discretion*
+ 
+ * **[Contact r/trees modteam](http://www.reddit.com/message/compose?to=%2Fr%2Ftrees)** - *polite and concise messages will garner the best results.*
+ 
+ 
+- **HOW TO** - [Change Your Flair &amp;amp; Highness scale](http://redd.it/qkftl)
+ 
+****
+ 
+#
+ 
+&gt;* **Activism**
+* [**New** Trees Activism](http://www.reddit.com/r/treesactivism/) Tracking Cannabis and Medical Marijuana Initiatives
+* [**/r/timetolegalize**](http://www.reddit.com/r/timetolegalize)
+* [**Students for Sensible Drug Policy**](http://www.reddit.com/r/ssdp)
+* [/m/TreeForm](http://www.reddit.com/user/expert02/m/treeform)
+*[For Our CanadiEnts - Sensible BC Campaign](http://sensiblebc.ca/)
+ 
+ 
+****
+ 
+- **IRC &amp;amp; Chat**
+   * [ICanHazChat:r/trees](https://www.icanhazchat.com/trees) pw:pineapple
+   * [TreesChat](http://www.treeschat.com) pw :pineapple
+   * /r/TreesSkype
+   * [PuffPuffChat](http://www.puffpuffchat.com/)  &lt;-- Cool and New!
+
+****
+ 
+- **ENTertainment**
+   * [trees movie night](http://www.treesmovienight.com)
+   * [last.fm group](http://bit.ly/treesfm)
+   * [Soundcloud group (music by ents for ents!)](http://soundcloud.com/groups/r-trees)
+   * [/m/TreeMedia](http://www.reddit.com/user/expert02/m/treemedia)
+   *  [**New** /r/trees plug.dj room](http://plug.dj/r-trees-music/)
+ 
+****
+
+[**Donate to: Student for Sensible Drug Policy**](https://org.salsalabs.com/o/1259/p/salsa/donation/common/public/?donate_page_KEY=10446)
+
+ 
+[**Marijuana Policy Project**](https://www.redditdonate.com/donate/85)
+ , over18=false, subscribers=628382, title=/r/trees - home of the ents, url=/r/trees/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=News, results and discussion about the beautiful game.
+
+[](#sprite2-p52) Get your **team crest** from [soccerbot](/r/soccerbot/wiki/index).
+
+**Please don't downvote people based on the team/league they support.**
+
+
+* Follow [the rules of our community](/r/soccer/wiki/rules#wiki_community_rules)
+* Read the [FAQ](/r/soccer/wiki/faq) and [wiki](/r/soccer/wiki)
+* Our [submission guidelines](/r/soccer/wiki/rules#wiki_submission_guidelines)
+* Create a [match thread](/r/soccer/wiki/matchthreads) ([icons](/rerge), [bars](/1xqchk))
+* Discover [related subreddits](/r/soccer/wiki/relatedsubreddits)
+* Suggest a [banner picture](/message/compose?to=%23soccer&amp;subject=Banner%20pic) ([archive](/r/soccerbanners/new/))
+* Question? [Message the mods](http://www.reddit.com/message/compose?to=%2Fr%2Fsoccer)
+* Follow us on [Twitter](http://twitter.com/redditsoccer)
+
+[](http://www.reddit.com/ "Tim Cahill scores against Saudi Arabia in a friendly match")
+[](http://www.reddit.com/ "R?bert Mak gives Slovakia a 1-0 win in Ukraine")
+[](http://www.reddit.com/ "Sergio Busquets celebrates after scoring his first international blooter for Spain")
+[](http://www.reddit.com/ "David Silva scores in Spain's 5-1 win over Macedonia")
+[](http://www.reddit.com/ "Danny Welbeck scores twice to give England a 2-0 win in Switzerland")
+, over18=false, subscribers=275882, title=/r/Soccer: the back page of the internet, url=/r/soccer/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=&gt;* **[/r/inthenews](/r/inthenews?hl)**
+
+&gt;#
+
+&gt;* **[/r/worldnews](/r/worldnews?hl)**
+
+&gt;#
+
+&gt;* **[new submissions](http://www.reddit.com/r/news/new?hl)**
+
+&gt;#
+
+&gt;* **[new comments](http://www.reddit.com/r/news/comments?hl)**
+
+1. Please submit all analysis/opinion articles to [**/r/inthenews**](http://www.reddit.com/r/inthenews )
+
+&gt; [](http://goo.gl/R6as4?ri)
+
+&gt; [](http://goo.gl/gBldE?ri)
+
+&gt; [](http://goo.gl/u5EZN?ri)
+
+&gt; [](http://goo.gl/exK8j?ri)
+
+&gt; [](http://www.reddit.com/r/news?ri)
+
+&gt; [](http://www.reddit.com/r/restorethefourth?ri)
+
+Want to talk?
+
+Chat with us on [IRC](http://webchat.snoonet.org/news)                    
+Follow [@rslashnews on Twitter](https://twitter.com/rslashnews)                    
+
+See a post that violates the rules below? Had your post stuck in the spam filter? Have a question about policy? Just want to give feedback? [Send the mod team a message](http://www.reddit.com/message/compose?to=%2Fr%2Fnews).
+
+---
+
+Please post news items only, with the exception of meta posts about /r/news itself. Self-posts aggregating news data and "independent reporting" each count as news, but are not an excuse to editorialize.
+
+
+Your post will likely be removed if it: 
+
+- is not news (or a meta post).
+- is an opinion/analysis or advocacy piece.
+- primarily concerns politics.
+- has a title not taken from the article.
+- has a pay wall or steals content.
+- covers an already-submitted story.
+- violates [reddit's site-wide rules](http://www.reddit.com/rules/), especially regarding personal info.
+
+Your comment will likely be removed if it:
+
+- is racist, sexist, vitriolic, or overly crude.
+- is unnecessarily rude or provocative.
+- is a cheap and distracting joke or meme.
+- is responding to spam.
+- violates [reddit's site-wide rules](http://www.reddit.com/rules/).
+
+Extreme or repeat offenders will be banned.
+
+
+[Expanded rules](http://www.reddit.com/r/news/wiki/rules)
+
+---
+
+If your post doesn't fit, consider [finding an appropriate news article on that story](http://www.reddit.com/r/news/wiki/recommendedsources) to submit instead, or submitting yours to lower moderation subreddits:
+
+[/r/inthenews](/r/inthenews) - all news-related content  
+[/r/AnythingGoesNews](/r/AnythingGoesNews) - unrestricted news   
+[/r/truereddit](/r/truereddit) - insightful articles   
+/r/self - any self-post   
+/r/misc, /r/redditdotcom - anything
+
+or other news subreddits:
+
+[/r/worldnews](/r/worldnews)  - from outside the USA only   
+[/r/SyrianCivilWar](/r/syriancivilwar) - about the conflict in Syria      
+[/r/MidEastRegionalWar](/r/mideastregionalwar) - on MidEast conflict
+[/r/UpliftingNews](/r/upliftingnews) - uplifting     
+[/r/mediaquotes](/r/mediaquotes) - the things they say                     
+
+or subreddits for other topics:
+
+[/r/FoodForThought](/r/FoodForThought) - discussion-worthy long form articles about interesting subjects                               
+[/r/politics](/r/politics) - for shouting about politics  
+[/r/moderatepolitics](/r/ModeratePolitics) - less shouting                 
+[/r/politicaldiscussion](/r/PoliticalDiscussion) - even less shouting        
+[/r/geopolitics](/r/geopolitics) - intl. politics and geography  
+[/r/entertainment](/r/entertainment) - Justin Bieber updates, etc.   
+[/r/europe](/r/europe) - news from Europe
+
+or check out the [200 most active subreddits, categorized by content](http://redd.it/1f7hqc) and the [full list of subreddits by subscribers](http://redditmetrics.com/top).
+
+---
+
+Recommendations:
+                                                                  
+/r/redactedcharts                                                                     
+/r/patriots                                                                     
+/r/personalfinance  
+/r/restorethefourth                                       
+/r/drama                                                                   
+/r/mtglimited                                                                   
+
+[reddit is fun for Android](http://goo.gl/exK8j) and its subreddit /r/redditisfun
+
+[submit analysis/opinion article](http://www.reddit.com/r/inthenews/submit)
+
+[submit news article](http://www.reddit.com/r/news/submit)
+
+[submit something else](http://www.reddit.com/r/misc/submit)
+
+[submit analysis/opinion article](http://www.reddit.com/r/inthenews/submit), over18=false, subscribers=3707714, title=All news, US and international., url=/r/news/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=**Follow our official ShowerThoughts twitter:** **[@rShowerThoughts](https://twitter.com/rShowerThoughts)**
+
+**[Like us on facebook!](https://www.facebook.com/RedditShowerThoughts)**
+
+---
+
+**About**
+
+A subreddit for you to share all those thoughts, ideas, or philosophical questions that race through your head when in the shower. 
+
+*Showerthought* is a loose term that applies to any thought you might have while carrying out a routine task like showering, driving, or daydreaming.
+
+Please be respectful of others submissions, if you disagree - explain why in the comments. Rudeness is unacceptable.
+
+---
+
+#RULES
+
+- [No shower "observations".](http://www.reddit.com/r/Showerthoughts/comments/1dowsz/meta_shower_observations_rule_change/)
+
+- **[No puns.](http://www.reddit.com/r/Showerthoughts/comments/1ymnj9/no_more_puns/)**
+
+- Don't be a jerk.
+
+Exceedingly stupid or unoriginal posts may be removed at the discretion of the mods (including posts that would fit better in other subreddits).
+
+---
+
+[View our public traffic stats.](http://goo.gl/PXu3es)
+
+------------------
+
+Subreddits you may like:
+
+- /r/nostupidquestions
+- /r/shittyideas
+- /r/lightbulb 
+- /r/baww 
+- /r/markmywords
+- /r/theoryofreddit 
+- /r/outoftheloop 
+- /r/outofthemetaloop 
+- /r/woahdude
+- /r/isitbullshit 
+- /r/fiftyfifty (nsfw/l)
+- /r/rage
+- /r/rant
+- /r/offmychest
+- /r/anger 
+- /r/self 
+- /r/crazyideas
+- /r/highqualitygifs 
+- /r/competitivehalo  
+- /r/space  
+- /r/intrusivethoughts (**new**)
+- /r/slightlyunsatisfying (**new**)
+
+##### [Follow @rShowerThoughts](https://twitter.com/rShowerThoughts) | [Like us on facebook](https://www.facebook.com/RedditShowerThoughts), over18=false, subscribers=1255558, title=Shower Thoughts, url=/r/Showerthoughts/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=    
+---
+
+[Submit a Link](/r/pokemon/submit)
+
+[Submit a Discussion](/r/pokemon/submit?selftext=true)
+
+[Submit a Trade](/r/pokemontrades/submit)
+
+[Submit a Meme](/r/pokememes/submit)
+
+[Submit a Shiny Pokemon](/r/shinypokemon/submit)
+
+[](http://www.pokemonxy.com)
+
+[Get your flair **here**](http://pokemonflairbot.tumblr.com/)
+
+A place for most things Pok?mon. TV shows, videogames, toys, trading cards, you name it.
+
+**[Other Pokemon related subreddits](http://www.reddit.com/r/pokemon/wiki/related_subreddits)**
+
+---
+
+**Check out the [X and Y Guide Megathread!](http://www.reddit.com/r/pokemon/comments/1ov1s5/pok%C3%A9mon_xy_guide_megathread)**
+
+---
+
+**Submission Rules**
+
+Firstly,  **see [THIS LIST](/r/pokemon/wiki/bannedsubmissions) of things *not* to post**!
+
+- **Submit the original source** for artwork/comics or **link to the source in comments**. Try [TinEye](http://www.tineye.com) to find it.
+- Keep posts **Pok?mon-related** (and **not** solely in the title!)
+- Mark **spoiler content**. [How?](/r/pokemon/wiki/spoilers)
+- Don't **self advertise** without mod approval.
+
+Also, as always, follow proper
+[reddiquette](http://www.reddit.com/wiki/reddiquette).
+
+
+- - -
+
+**Chat with /r/pokemon!**
+
+[Tiny Chat](http://tinychat.com/rpokemon "TinyChat Video Chat")  
+[New IRC Channel!](http://webchat.freenode.net/?channels=meloetta)
+
+- - -
+
+Make sure you follow our [spoiler guide](/r/pokemon/wiki/spoilers) when posting about spoilers.
+
+- - -
+
+Check out the [/r/pokemon wiki](/r/pokemon/wiki/index)!
+
+[](http://nm.reddit.com/r/Pokemon)
+
+[](#/RES_SR_Config/NightModeCompatible), over18=false, subscribers=374549, title=Pok?mon: Gotta catch 'em all!, url=/r/pokemon/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=[](http://GifTournament.reddit.com)
+
+###Reaction?
+
+A reaction gif is a physical or emotional response that is captured in a gif which you can link in response to someone or something on the Internet.
+
+
+
+###Rules
+
+1. Your gif must actually contain some sort of reaction. Your submission title has no bearing on whether the gif you submit is a reaction gif or not.
+2. Upvote, downvote, and reddit gold gifs are not allowed and will be removed. Please direct your submission to /r/upvotegifs or /r/goldgifs.
+3. If you submit a gif that is submitted often then it may be removed.
+4. Please direct your cake day posts to /r/cakeday.  Cakeday posts are not allowed in any form.
+5. Individual gifs only and link directly to the gif.
+6. No gore or porn.
+7. You must use an appropriate host listed below for your gif.
+8. Let me make this clear: If you make [OC] and you want [OC] Flair, you gonna have to tag that shit [OC] in the title, capisce?
+9. The rules are the rules.  Deal with it like an adult.
+10. Keep comments civil.   Personal attacks, racism, bigotry, homophobia, etc is not tolerated and will result in a ban, even if you think you are just joking.
+11. No spoilers.  Do not post spoilers for current shows or movies. Use spoiler tags when discussing any recent shows or movies.
+12. Do not engage in witch hunts or brigades. reddit is not your personal army.
+13. We are not currently accepting posts about The Fappening.
+
+
+
+###Reliable Hosts
+
+Use these||
+:--|:--
+[imgur](http://imgur.com/)|[blogspot](https://www.blogspot.com) 
+[minus](http://www.min.us/)|[forgifs](http://forgifs.com/gallery/main.php)
+[picasa](http://picasaweb.google.com/)|[gifbase](http://www.gifbase.com/)
+[gifsoup](http://www.gifsoup.com/)|used to be gifsearch but they suck now
+[gifbin](http://www.gifbin.com/)|[googleusercontent](https://www.plus.google.com/)
+[sbnation](http://sbnation.com/)|[picasa](http://picasa.google.com/)
+[reactionclips](http://www.reactionclips.com/)|[Sta.sh](http://sta.sh/)
+[abload.de](http://abload.de/)|[wordpress](http://wordpress.org/)
+[ReactionGIFs.us](http://www.reactiongifs.us)|[postimage](http://postimage.org/)
+[giphy](http://giphy.com/)|[mediacrush](https://mediacru.sh/)
+[Gfycat.com (**GIFS ONLY. NO HTML5**)](http://www.gfycat.com)
+
+###FAQ &amp; [WIKI](/r/reactiongifs/wiki/index)
+
+How do I make a [gif?](/r/reactiongifs/wiki/index#wiki_how_do_i_make_a_gif.3F)
+
+What does [[OC](/r/reactiongifs/wiki/index#wiki_what_does_.5Boc.5D_mean.3F)] mean?
+
+Where are the [Official reaction gif packs?](/r/reactiongifs/wiki/index#wiki_where_are_the_official_reaction_gif_packs.3F)
+
+
+If your submission is removed for breaking any of these rules we encourage you to submit your gif to /r/analogygifs.
+
+Spoilers: [Your Text Here](?/spoiler) will show up as [Your Text Here](/spoiler) 
+
+
+###Fronds
+
+Our BFFS||
+:--|:--
+/r/gifs|/r/analogygifs
+/r/upvotegifs |/r/makemeagif  
+/r/HumanPorn|/r/gfycats
+/r/vertical|/r/gif
+/r/naturegifs|**/r/HighQualityGifs**
+/r/EditingAndLayout |/r/matt01ss
+/r/BigMurph26|/r/InterestingGifs|
+/r/Memes|/r/StartledCats|
+/r/StartledCats|/r/SFWPorngifs|
+/r/educationalgifs|/r/GifBattle|
+/r/GIFing0Fucks|/r/catreactiongifs |
+|/r/FiftyFifty |/r/gfycatsdepot |
+| /r/mspaintbattles | /r/dashcamgifs |
+| /r/gifextra | /r/DubbedGIFS |
+
+###Other stuff
+
+* Want an easy way to save and tag gifs?  Try [Jiflib](http://www.jiflib.com/) or try [GifMe.](http://gifme.io/)
+
+* [View our traffic statistics!](http://goo.gl/pBYV1r)
+
+######[Want to see reddit's best gif makers to head to head? Come on over to /r/GifTournament! - ROUND 5 FINALS LIVE!](http://www.reddit.com/r/GifTournament), over18=false, subscribers=421978, title=Reaction GIFs, url=/r/reactiongifs/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=&gt;  **Filter by Topics**
+[All](http://reddit.com/r/technology/#filter)
+[Politics](http://reddit.com/r/technology/search?q=flair%3A%22politics%22&amp;sort=hot&amp;restrict_sr=on&amp;t=day#filter)
+[Pure Tech](http://www.reddit.com/r/technology/search?q=flair%3A%22pure+tech%22&amp;sort=hot&amp;restrict_sr=on&amp;t=day#filter)
+[Business](http://reddit.com/r/technology/search?q=flair%3A%22business%22&amp;sort=hot&amp;restrict_sr=on&amp;t=day#filter)
+[Discussion](http://www.reddit.com/r/technology/search?q=flair%3A%22discussion%22&amp;sort=hot&amp;restrict_sr=on&amp;t=day#filter)
+
+### Current Topic Filters
+
+[No Comcast](http://nc.reddit.com/r/technology#sfilter)
+[Remove Filter](http://reddit.com/r/technology)
+
+
+#Welcome to r/technology
+
+## Vision
+
+* /r/technology is a subreddit dedicated to the discussion of all things technology. This subreddit is for technology-related submissions only, but we allow articles which are of a political nature provided they are also significantly related to technology.
+
+
+## Definition
+
+* Technology is the making, modification, usage, and knowledge of tools, machines, techniques, crafts, systems, and methods of organization, in order to solve a problem, improve a pre-existing solution to a problem, achieve a goal, handle an applied input/output relation or perform a specific function. (Wikipedia)*
+
+
+
+#Rules
+
+
+##1. Allowed Submissions
+
+* Submissions must be a technology related article or self post.
+* Self posts must contribute to /r/technology and foster reasonable discussion.
+* **Not allowed**:
+* Requests for tech support or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+* Meta posts: you can submit these to /r/technologymeta.
+
+##2. Follow the Rules of Reddit 
+
+* [All reddit-wide rules apply here](http://www.reddit.com/rules).
+
+##3. Titles
+
+* Link submissions should use the article's title or a quote describing its content. They must be free of personal opinion and accurately represent the content of the article. Posts that fail to meet these criteria may be removed at moderator discretion.
+
+##4. No Image or Video Submissions
+
+* This does not include articles with supporting videos.
+
+##5. No Mobile Sites
+
+* These URLs are usually prepended with "m." or "mobile." Please link to the desktop versions of sites instead.
+
+##6. No Personal Information
+
+* No personal information or Facebook links.
+
+##7. No Petitions
+
+* Also no crowdfunding submissions.
+
+#Transparency 
+
+## Reforms
+
+* The moderators of this subreddit are dedicated to transparency and building trust with the community. /r/technology is currently undergoing reform to increase moderator transparency and openness. Currently implemented reforms:
+
+## Automoderator
+
+* Our /u/AutoModerator configuration may be viewed [here](http://www.reddit.com/r/technology/wiki/automoderator). 
+
+## Submission Removals
+
+* Removed threads will either be given a removal reason flair or comment response. Please message the moderators if your thread was removed without a reason in the flair or the comments.
+
+## Modmail
+
+* We will answer all legitimate, answerable modmail inquiries to the best of our abilities within a reasonable period of time. 
+
+## Way Ahead
+
+* Further reforms will be implemented in the coming days, if you have a suggestion please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology).
+
+#Technical Support Communities
+
+## Any tech related queries to be posted in
+
+* /r/techsupport  
+* /r/buildapc 
+* /r/24hoursupport 
+* /r/applehelp  
+* /r/linux4noobs 
+
+#Related Sub-Reddits
+
+## Technology relevant Communities
+
+* /r/Android 
+* /r/Apple 
+* /r/Blackberry  
+* /r/Bitcoin 
+* /r/Chrome 
+* /r/CompSci 
+* /r/Computing 
+* /r/Engineering  
+* /r/Firefox 
+* /r/Futurology 
+* /r/Gadgets 
+* /r/Geek 
+* /r/Google  
+* /r/GoogleGlass 
+* /r/Hardware
+* /r/ImaginaryTechnology 
+* /r/Kickstarter 
+* /r/Linux  
+* /r/Microsoft 
+* /r/Mobile 
+* /r/NetSec 
+* /r/Privacy 
+* /r/Programming 
+* /r/Rad_Decentralization
+* /r/RenewableEnergy 
+* /r/Software 
+* /r/Startups
+* /r/Tech 
+* /r/TechnologyPorn  
+* /r/Ubuntu
+* /r/Windows
+* /r/WindowsPhone
+
+# **Credits**
+
+## CSS &amp; Logo, over18=false, subscribers=5058302, title=Technology, url=/r/technology/]
+RedditSubreddit [accountsActive=0, commentScoreHideMins=0, description=
+###Welcome! Please read [the wiki](http://www.reddit.com/r/politics/wiki/index) before participating.
+
+# **/r/Politics is the subreddit for current and explicitly political U.S. news.**
+
+## [Our full rules](/r/politics/wiki/rulesandregs) 
+
+## [Reddiquette](/wiki/reddiquette)
+
+------
+
+#Comment Guidelines:
+
+##Be civil.
+* Treat others with basic decency. No personal attacks, hate-speech, flaming, baiting, trolling, witch-hunting, or unsubstantiated accusations. Threats of violence will result in a ban. [**More Info.**](/r/politics/wiki/rulesandregs#wiki_please_be_civil) 
+
+##Do not post users' personal information.
+* Users who violate this rule will be banned on sight. Witch-hunting and giving out private personal details of other people can result in unexpected and potentially serious consequences for the individual targeted. [**More Info.**](/r/politics/wiki/rulesandregs#wiki_no_threats.2C_witch_hunting.2C_or_personal_information.)
+
+##Vote based on **quality**, not opinion.
+* Political discussion requires varied opinions. Well written and interesting content can be worthwhile, even if you disagree with it. Downvote only if you think a comment/post does not contribute to the thread it is posted in or if it is off-topic in /r/politics. [**More Info.**](/r/politics/wiki/rulesandregs#wiki_voting)
+
+##Do not manipulate comments and posts via group voting.
+* Manipulating comments and posts via group voting is against reddit TOS. [**More Info.**](/r/politics/wiki/rulesandregs#wiki_do_not_manipulate_comments_and_posts_via_group_voting.)
+
+##Use "no participation" links when linking to other subreddits.
+*  Please use np.reddit.com links if you wish to link threads found on /r/politics to an outside subreddit. [**More Info.**](/r/politics/wiki/rulesandregs#wiki_use_.22no_participation.22_links_when_linking_to_other_subreddits.)
+
+
+-----
+
+#Submission Guidelines:
+
+##Articles must deal ***explicitly*** with US politics.
+* [**See our on-topic statement here.**](/r/politics/wiki/rulesandregs#wiki_the_.2Fr.2Fpolitics_on_topic_statement)
+
+##Articles must be published within the last 45 days.
+* [**More Info.**](/r/politics/wiki/rulesandregs#wiki_the_.2Fr.2Fpolitics_on_topic_statement)
+
+##Post titles must be **exact** headline and/or quotes. 
+* Your title should be comprised only of the copied and pasted headline of the article and/or **exact** quotes. The selection of quotes should reflect the article as a whole. [**More Info.**](/r/politics/wiki/rulesandregs#wiki_do_not_create_your_own_title.)
+
+##Submissions must be an original source.
+* An article must contain significant analysis and original content--not just a few links of text among chunks of copy and pasted material. Content is considered rehosted when a publication takes the majority of their content from another website and reposts it in order to get the traffic and collect ad revenue. [**More Info.**](/r/politics/wiki/rulesandregs#wiki_ensure_that_you_are_using_the_original_source)
+
+##Spam is bad!
+* If 33% or more of your submissions are from a single website, you will be banned as a spammer. [**More Info.**](/r/politics/wiki/rulesandregs#wiki_spam_is_bad.21) 
+
+##Submissions must be articles, videos or sound clips. 
+* We disallow petitions, polls, personal blogs, satire, images, social media content (facebook, twitter, tumblr, LinkedIn, etc.), wikis, memes, and political advertisements. More info: [**Content type rules.**](/r/politics/wiki/rulesandregs#wiki_submissions_must_be_articles.2C_videos.2C_or_sound_clips.)
+
+##Do not use "BREAKING" or ALL CAPS in titles. 
+* The ALL CAPS and 'Breaking' rule is applied even when the actual title of the article is in all caps or contains the word 'Breaking'. This rule may be applied to other single word declarative and/or sensational expressions, such as 'EXCLUSIVE:' or 'HOT:'. [**More Info.**](/r/politics/wiki/rulesandregs#wiki_follow_reddiquette.27s_title_instructions.) 
+
+##Self-Posts are allowed on Saturdays. 
+* Self posts must adhere to our [on topic statement.](http://www.reddit.com/r/politics/wiki/rulesandregs#wiki_the_.2Fr.2Fpolitics_on_topic_statement). Meta posts (posts about /r/Politics and not the topic of politics) are not allowed. Please message the mods with your feedback about the subreddit. [**More Info.**](/r/politics/wiki/rulesandregs#wiki_self-posts_are_allowed_on_saturdays.)
+
+-----
+
+#Other Resources:
+
+## [Click here for our full list of Related Subreddits](http://www.reddit.com/r/politics/wiki/relatedsubs)
+
+## Chat with us on IRC
+* [Click here to join our IRC channel](http://webchat.snoonet.org/politics) via webchat. Alternatively, point your client to #politics on irc.snoonet.org, port 6667.
+
+## Follow us on [Twitter](http://twitter.com/reddit_politics)
+
+## [Register To Vote](http://goo.gl/XHLkS)
+
+-----
+# Design credits: 
+
+* /r/internationalpolitics
+
+* /r/boxed
+
+-----
+[^This ^subreddit ^is ^night ^mode ^compatible](#/RES_SR_Config/NightModeCompatible), over18=false, subscribers=3082998, title=Politics, url=/r/politics/]
+
+
+----------- TESTING LISTING FOR -----------
+
+
+com.cd.reddit.RedditException: http://www.reddit.com/r/funny//top.json
+	at com.cd.reddit.http.RedditRequestor.readResponse(RedditRequestor.java:118)
+	at com.cd.reddit.http.RedditRequestor.executeGet(RedditRequestor.java:72)
+	at com.cd.reddit.Reddit.listingFor(Reddit.java:173)
+	at com.cd.reddit.RedditTest.listingsFor(RedditTest.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:673)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:842)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1166)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:1178)
+	at org.testng.TestRunner.privateRun(TestRunner.java:757)
+	at org.testng.TestRunner.run(TestRunner.java:608)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1158)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1083)
+	at org.testng.TestNG.run(TestNG.java:999)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:69)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:181)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+Caused by: java.io.FileNotFoundException: http://www.reddit.com/r/funny//top.json
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1834)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1439)
+	at com.cd.reddit.http.RedditRequestor.readResponse(RedditRequestor.java:105)
+	... 32 more
+
+
+----------- TESTING Mark Link NSFW -----------
+
+
+
+
+----------- TESTING Unmark Link NSFW -----------
+
+
+
+
+----------- TESTING NEW CAPTCHA -----------
+
+
+RedditJsonMessage [errors=[], modhash=null, cookie=null, iden=EaWvE5ZsbrRLNrKcrOAu8eGRIxOMK2bP, data={"iden":"EaWvE5ZsbrRLNrKcrOAu8eGRIxOMK2bP"}]
